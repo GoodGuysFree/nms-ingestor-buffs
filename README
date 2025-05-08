@@ -1,1 +1,8 @@
 Invite link: https://discord.com/oauth2/authorize?client_id=1343284363759980625&permissions=2147486720&integration_type=0&scope=bot
+
+Create a .env file with the following variables:
+
+DISCORD_TOKEN=<discord token>
+NUTRIENT_FILE=nutrient-data.json
+EFFECT_FILE=effect-data.json
+LOG_FILE=ingestor-bot-console.log
