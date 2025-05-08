@@ -1,0 +1,3752 @@
+{
+  "life support": [
+    {
+      "nutrient": "Creature Pellets",
+      "duration": "00:06",
+      "effect": "1% Life Support 6 Sec",
+      "effect_value": 1
+    }
+  ],
+  "unspecified": [
+    {
+      "nutrient": "NipNip Buds",
+      "duration": "00:06",
+      "effect": "-100% Unspecified 6 Sec",
+      "effect_value": -100
+    },
+    {
+      "nutrient": "Flesh Rope",
+      "duration": "00:06",
+      "effect": "-100% Unspecified",
+      "effect_value": -100
+    },
+    {
+      "nutrient": "The Angler",
+      "duration": "00:06",
+      "effect": "-100% Unspecified",
+      "effect_value": -100
+    },
+    {
+      "nutrient": "GekNip",
+      "duration": "00:06",
+      "effect": "-100% Unspecified",
+      "effect_value": -100
+    }
+  ],
+  "hazard protection": [
+    {
+      "nutrient": "Carbon Nanotubes",
+      "duration": "00:06",
+      "effect": "8% Hazard Protection 6 Sec",
+      "effect_value": 8
+    }
+  ],
+  "solar panel power": [
+    {
+      "nutrient": "Larval Core",
+      "duration": "00:06",
+      "effect": "-3% Solar Panel Power 6 Sec",
+      "effect_value": -3
+    },
+    {
+      "nutrient": "Processed Sugar",
+      "duration": "05:00",
+      "effect": "37% Solar Panel Power 5 Min ",
+      "effect_value": 37
+    },
+    {
+      "nutrient": "Synthetic Honey",
+      "duration": "05:00",
+      "effect": "37% Solar Panel Power 5 Min ",
+      "effect_value": 37
+    },
+    {
+      "nutrient": "Omelette",
+      "duration": "06:30",
+      "effect": "50% Solar Panel Power 6:30 Min",
+      "effect_value": 50
+    },
+    {
+      "nutrient": "Root Juice",
+      "duration": "06:00",
+      "effect": "50% Solar Panel Power 6 Min",
+      "effect_value": 50
+    },
+    {
+      "nutrient": "Syrupy Proto-Butter",
+      "duration": "06:00",
+      "effect": "51% Solar Panel Power 6 Min ",
+      "effect_value": 51
+    },
+    {
+      "nutrient": "Parasitic Omelette",
+      "duration": "06:30",
+      "effect": "54% Solar Panel Power 6:30 Min",
+      "effect_value": 54
+    },
+    {
+      "nutrient": "Gooey Protobutter",
+      "duration": "06:00",
+      "effect": "55% Solar Panel Power 6 Min ",
+      "effect_value": 55
+    },
+    {
+      "nutrient": "Proto-Omelette",
+      "duration": "06:30",
+      "effect": "62% Solar Panel Power 6:30 Min",
+      "effect_value": 62
+    },
+    {
+      "nutrient": "Butter Syrup",
+      "duration": "08:00",
+      "effect": "68% Solar Panel Power 8 Min",
+      "effect_value": 68
+    },
+    {
+      "nutrient": "Gooey Butter",
+      "duration": "08:00",
+      "effect": "75% Solar Panel Power 8 Min ",
+      "effect_value": 75
+    },
+    {
+      "nutrient": "Honied Proto-Cake",
+      "duration": "10:00",
+      "effect": "85% Solar Panel Power 10 Min ",
+      "effect_value": 85
+    },
+    {
+      "nutrient": "Jam Doughnut",
+      "duration": "10:00",
+      "effect": "87% Solar Panel Power 10 Min ",
+      "effect_value": 87
+    },
+    {
+      "nutrient": "Fluffy Caramel Delight",
+      "duration": "10:00",
+      "effect": "95% Solar Panel Power 10 Min",
+      "effect_value": 95
+    },
+    {
+      "nutrient": "Caramelised Nightmare",
+      "duration": "10:00",
+      "effect": "97% Solar Panel Power 10 Min",
+      "effect_value": 97
+    }
+  ],
+  "breathing efficiency": [
+    {
+      "nutrient": "Sac-fish",
+      "duration": "00:30",
+      "effect": "19% Breathing Efficiency",
+      "effect_value": 19
+    },
+    {
+      "nutrient": "Pressurised Clam",
+      "duration": "",
+      "effect": "20% Breathing Efficiency",
+      "effect_value": 20
+    },
+    {
+      "nutrient": "De-Pressurized Blob",
+      "duration": "00:30",
+      "effect": "20% Breathing Efficiency",
+      "effect_value": 20
+    },
+    {
+      "nutrient": "Fool's Goldfish",
+      "duration": "00:30",
+      "effect": "20% Breathing Efficiency",
+      "effect_value": 20
+    },
+    {
+      "nutrient": "Hexscale Minnow",
+      "duration": "00:30",
+      "effect": "20% Breathing Efficiency",
+      "effect_value": 20
+    },
+    {
+      "nutrient": "Hadal Core",
+      "duration": "00:06",
+      "effect": "21% Breathing Efficiency 6 Sec",
+      "effect_value": 21
+    },
+    {
+      "nutrient": "Frozen Isopod",
+      "duration": "",
+      "effect": "21% Breathing Efficiency",
+      "effect_value": 21
+    },
+    {
+      "nutrient": "Rimescale Snapper",
+      "duration": "",
+      "effect": "21% Breathing Efficiency",
+      "effect_value": 21
+    },
+    {
+      "nutrient": "Sea Cucumber",
+      "duration": "",
+      "effect": "21% Breathing Efficiency",
+      "effect_value": 21
+    },
+    {
+      "nutrient": "Waspfish",
+      "duration": "",
+      "effect": "21% Breathing Efficiency",
+      "effect_value": 21
+    },
+    {
+      "nutrient": "Briny Worm",
+      "duration": "00:30",
+      "effect": "21% Breathing Efficiency",
+      "effect_value": 21
+    },
+    {
+      "nutrient": "Field's Dartfish",
+      "duration": "00:30",
+      "effect": "21% Breathing Efficiency",
+      "effect_value": 21
+    },
+    {
+      "nutrient": "Inverted Brainfish",
+      "duration": "01:00",
+      "effect": "21% Breathing Efficiency",
+      "effect_value": 21
+    },
+    {
+      "nutrient": "Marine Glowworm",
+      "duration": "01:00",
+      "effect": "21% Breathing Efficiency",
+      "effect_value": 21
+    },
+    {
+      "nutrient": "Oilfin",
+      "duration": "00:30",
+      "effect": "21% Breathing Efficiency",
+      "effect_value": 21
+    },
+    {
+      "nutrient": "Vectorfin",
+      "duration": "00:30",
+      "effect": "21% Breathing Efficiency",
+      "effect_value": 21
+    },
+    {
+      "nutrient": "Sweetwater Minnow",
+      "duration": "01:00",
+      "effect": "22% Breathing Efficiency 1 Min",
+      "effect_value": 22
+    },
+    {
+      "nutrient": "Bloated Eel",
+      "duration": "",
+      "effect": "22% Breathing Efficiency",
+      "effect_value": 22
+    },
+    {
+      "nutrient": "Chalkscale Nibber",
+      "duration": "01:00",
+      "effect": "22% Breathing Efficiency",
+      "effect_value": 22
+    },
+    {
+      "nutrient": "Frostscale Trout",
+      "duration": "00:30",
+      "effect": "22% Breathing Efficiency",
+      "effect_value": 22
+    },
+    {
+      "nutrient": "Midnight Eel",
+      "duration": "01:00",
+      "effect": "22% Breathing Efficiency",
+      "effect_value": 22
+    },
+    {
+      "nutrient": "Bulging Snapper",
+      "duration": "00:30",
+      "effect": "23% Breathing Efficiency",
+      "effect_value": 23
+    },
+    {
+      "nutrient": "Common Shimmertail",
+      "duration": "00:03",
+      "effect": "23% Breathing Efficiency",
+      "effect_value": 23
+    },
+    {
+      "nutrient": "Deepwater Minnow",
+      "duration": "00:30",
+      "effect": "23% Breathing Efficiency",
+      "effect_value": 23
+    },
+    {
+      "nutrient": "Frostshell Clam",
+      "duration": "01:00",
+      "effect": "23% Breathing Efficiency",
+      "effect_value": 23
+    },
+    {
+      "nutrient": "Golden Urchin",
+      "duration": "01:00",
+      "effect": "23% Breathing Efficiency",
+      "effect_value": 23
+    },
+    {
+      "nutrient": "Lavascale Trout",
+      "duration": "01:00",
+      "effect": "23% Breathing Efficiency",
+      "effect_value": 23
+    },
+    {
+      "nutrient": "Pondskipper",
+      "duration": "00:30",
+      "effect": "23% Breathing Efficiency",
+      "effect_value": 23
+    },
+    {
+      "nutrient": "Shimmering Lashtail",
+      "duration": "01:30",
+      "effect": "23% Breathing Efficiency",
+      "effect_value": 23
+    },
+    {
+      "nutrient": "Silent Angler",
+      "duration": "01:00",
+      "effect": "23% Breathing Efficiency",
+      "effect_value": 23
+    },
+    {
+      "nutrient": "Shrieking Oyster",
+      "duration": "",
+      "effect": "24% Breathing Efficiency",
+      "effect_value": 24
+    },
+    {
+      "nutrient": "Flourishing Shalefish",
+      "duration": "01:30",
+      "effect": "24% Breathing Efficiency 1:30 Min",
+      "effect_value": 24
+    },
+    {
+      "nutrient": "Blistering Eel",
+      "duration": "",
+      "effect": "24% Breathing Efficiency",
+      "effect_value": 24
+    },
+    {
+      "nutrient": "Weltscale Clam",
+      "duration": "",
+      "effect": "24% Breathing Efficiency",
+      "effect_value": 24
+    },
+    {
+      "nutrient": "Mineralised Jellyfish",
+      "duration": "",
+      "effect": "24% Breathing Efficiency",
+      "effect_value": 24
+    },
+    {
+      "nutrient": "All-Seeing Worm",
+      "duration": "",
+      "effect": "24% Breathing Efficiency",
+      "effect_value": 24
+    },
+    {
+      "nutrient": "Ice Darter",
+      "duration": "00:30",
+      "effect": "24% Breathing Efficiency",
+      "effect_value": 24
+    },
+    {
+      "nutrient": "Ionised Clam",
+      "duration": "01:00",
+      "effect": "24% Breathing Efficiency",
+      "effect_value": 24
+    },
+    {
+      "nutrient": "Marrow Shark",
+      "duration": "02:00",
+      "effect": "24% Breathing Efficiency",
+      "effect_value": 24
+    },
+    {
+      "nutrient": "Polyscale Bloater",
+      "duration": "02:00",
+      "effect": "24% Breathing Efficiency",
+      "effect_value": 24
+    },
+    {
+      "nutrient": "Twilight Cavefish",
+      "duration": "01:30",
+      "effect": "24% Breathing Efficiency",
+      "effect_value": 24
+    },
+    {
+      "nutrient": "Acidic Pufferfish",
+      "duration": "",
+      "effect": "25% Breathing Efficiency",
+      "effect_value": 25
+    },
+    {
+      "nutrient": "Gas-Worm",
+      "duration": "",
+      "effect": "25% Breathing Efficiency",
+      "effect_value": 25
+    },
+    {
+      "nutrient": "Inert Whelk",
+      "duration": "",
+      "effect": "25% Breathing Efficiency",
+      "effect_value": 25
+    },
+    {
+      "nutrient": "Bileworm",
+      "duration": "00:30",
+      "effect": "25% Breathing Efficiency",
+      "effect_value": 25
+    },
+    {
+      "nutrient": "Brineskipper",
+      "duration": "01:30",
+      "effect": "25% Breathing Efficiency",
+      "effect_value": 25
+    },
+    {
+      "nutrient": "Non-Euclidean Flatfish",
+      "duration": "02:00",
+      "effect": "25% Breathing Efficiency",
+      "effect_value": 25
+    },
+    {
+      "nutrient": "Shalebound Starfish",
+      "duration": "01:00",
+      "effect": "25% Breathing Efficiency",
+      "effect_value": 25
+    },
+    {
+      "nutrient": "Thawed Diamondfin",
+      "duration": "01:00",
+      "effect": "25% Breathing Efficiency",
+      "effect_value": 25
+    },
+    {
+      "nutrient": "Twisted Gulper",
+      "duration": "01:30",
+      "effect": "25% Breathing Efficiency",
+      "effect_value": 25
+    },
+    {
+      "nutrient": "Wandering Shellback",
+      "duration": "01:30",
+      "effect": "25% Breathing Efficiency",
+      "effect_value": 25
+    },
+    {
+      "nutrient": "Writhing Brainworm",
+      "duration": "01:30",
+      "effect": "25% Breathing Efficiency",
+      "effect_value": 25
+    },
+    {
+      "nutrient": "Mud Crab",
+      "duration": "",
+      "effect": "26% Breathing Efficiency",
+      "effect_value": 26
+    },
+    {
+      "nutrient": "Spiny Starfish",
+      "duration": "",
+      "effect": "26% Breathing Efficiency",
+      "effect_value": 26
+    },
+    {
+      "nutrient": "Longjaw Snapper",
+      "duration": "",
+      "effect": "26% Breathing Efficiency",
+      "effect_value": 26
+    },
+    {
+      "nutrient": "Vapourfin",
+      "duration": "",
+      "effect": "26% Breathing Efficiency",
+      "effect_value": 26
+    },
+    {
+      "nutrient": "Aurora Jellyfish",
+      "duration": "00:30",
+      "effect": "26% Breathing Efficiency",
+      "effect_value": 26
+    },
+    {
+      "nutrient": "Evaporating Snail",
+      "duration": "01:00",
+      "effect": "26% Breathing Efficiency",
+      "effect_value": 26
+    },
+    {
+      "nutrient": "Frozen Knifejaw",
+      "duration": "02:00",
+      "effect": "26% Breathing Efficiency",
+      "effect_value": 26
+    },
+    {
+      "nutrient": "Inverted Snapper",
+      "duration": "01:00",
+      "effect": "26% Breathing Efficiency",
+      "effect_value": 26
+    },
+    {
+      "nutrient": "Whispering Jelly",
+      "duration": "01:00",
+      "effect": "26% Breathing Efficiency",
+      "effect_value": 26
+    },
+    {
+      "nutrient": "Hypnotic Octopus",
+      "duration": "",
+      "effect": "27% Breathing Efficiency",
+      "effect_value": 27
+    },
+    {
+      "nutrient": "Caustic Urchin",
+      "duration": "",
+      "effect": "27% Breathing Efficiency",
+      "effect_value": 27
+    },
+    {
+      "nutrient": "Toxic Stonefish",
+      "duration": "",
+      "effect": "27% Breathing Efficiency",
+      "effect_value": 27
+    },
+    {
+      "nutrient": "Luminescent Coral",
+      "duration": "",
+      "effect": "27% Breathing Efficiency",
+      "effect_value": 27
+    },
+    {
+      "nutrient": "Ionised Oyster",
+      "duration": "01:00",
+      "effect": "27% Breathing Efficiency 1 Min",
+      "effect_value": 27
+    },
+    {
+      "nutrient": "Breach Crawler",
+      "duration": "02:00",
+      "effect": "27% Breathing Efficiency",
+      "effect_value": 27
+    },
+    {
+      "nutrient": "Cyclonic Eel",
+      "duration": "02:00",
+      "effect": "27% Breathing Efficiency",
+      "effect_value": 27
+    },
+    {
+      "nutrient": "Depleted Razorjaw",
+      "duration": "01:30",
+      "effect": "27% Breathing Efficiency",
+      "effect_value": 27
+    },
+    {
+      "nutrient": "Frostbite Ray",
+      "duration": "03:00",
+      "effect": "27% Breathing Efficiency",
+      "effect_value": 27
+    },
+    {
+      "nutrient": "Radiant Sunfish",
+      "duration": "02:00",
+      "effect": "27% Breathing Efficiency",
+      "effect_value": 27
+    },
+    {
+      "nutrient": "Toxic Jelly",
+      "duration": "01:00",
+      "effect": "27% Breathing Efficiency",
+      "effect_value": 27
+    },
+    {
+      "nutrient": "Tiny Scuttlefish",
+      "duration": "00:30",
+      "effect": "28% Breathing Efficiency 0:30 Min",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Mellifluous Jellyfish",
+      "duration": "01:00",
+      "effect": "28% Breathing Efficiency 1 Min",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Scorpionfish",
+      "duration": "",
+      "effect": "28% Breathing Efficiency",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Quartzshell Crab",
+      "duration": "",
+      "effect": "28% Breathing Efficiency",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Bewitching Candlefish",
+      "duration": "03:00",
+      "effect": "28% Breathing Efficiency",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Bleached Octopus",
+      "duration": "02:00",
+      "effect": "28% Breathing Efficiency",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Cyclopic Eel",
+      "duration": "03:00",
+      "effect": "28% Breathing Efficiency",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Frozen Whelk",
+      "duration": "00:30",
+      "effect": "28% Breathing Efficiency",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Ghost Skipper",
+      "duration": "01:00",
+      "effect": "28% Breathing Efficiency",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Giant Whiskrerfish",
+      "duration": "02:00",
+      "effect": "28% Breathing Efficiency",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Glowing Catfish",
+      "duration": "01:30",
+      "effect": "28% Breathing Efficiency",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Lesser Dustfin",
+      "duration": "00:30",
+      "effect": "28% Breathing Efficiency",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Pyrefin",
+      "duration": "01:00",
+      "effect": "28% Breathing Efficiency",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Shadowfin",
+      "duration": "00:30",
+      "effect": "28% Breathing Efficiency",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Silicate Crab",
+      "duration": "01:30",
+      "effect": "28% Breathing Efficiency",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Sulphurfish",
+      "duration": "01:30",
+      "effect": "28% Breathing Efficiency",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Wandering Kelpfin",
+      "duration": "01:00",
+      "effect": "28% Breathing Efficiency",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Giant Sunray",
+      "duration": "03:00",
+      "effect": "29% Breathing Efficiency 3 Min",
+      "effect_value": 29
+    },
+    {
+      "nutrient": "Cadmium Pearlcase",
+      "duration": "",
+      "effect": "29% Breathing Efficiency",
+      "effect_value": 29
+    },
+    {
+      "nutrient": "Magma Shark",
+      "duration": "",
+      "effect": "29% Breathing Efficiency",
+      "effect_value": 29
+    },
+    {
+      "nutrient": "Venomtooth Wriggler",
+      "duration": "",
+      "effect": "29% Breathing Efficiency",
+      "effect_value": 29
+    },
+    {
+      "nutrient": "Spratfin",
+      "duration": "",
+      "effect": "29% Breathing Efficiency",
+      "effect_value": 29
+    },
+    {
+      "nutrient": "Encrusted Worm",
+      "duration": "",
+      "effect": "29% Breathing Efficiency",
+      "effect_value": 29
+    },
+    {
+      "nutrient": "Ash Snail",
+      "duration": "00:30",
+      "effect": "29% Breathing Efficiency",
+      "effect_value": 29
+    },
+    {
+      "nutrient": "Boiled Snapper",
+      "duration": "01:00",
+      "effect": "29% Breathing Efficiency",
+      "effect_value": 29
+    },
+    {
+      "nutrient": "Electric Eel",
+      "duration": "01:30",
+      "effect": "29% Breathing Efficiency",
+      "effect_value": 29
+    },
+    {
+      "nutrient": "Nucleic Skipper",
+      "duration": "01:00",
+      "effect": "29% Breathing Efficiency",
+      "effect_value": 29
+    },
+    {
+      "nutrient": "Viper Eel",
+      "duration": "03:30",
+      "effect": "29% Breathing Efficiency",
+      "effect_value": 29
+    },
+    {
+      "nutrient": "Rockfin",
+      "duration": "01:00",
+      "effect": "30% Breathing Efficiency 1 Min",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Needlefish",
+      "duration": "",
+      "effect": "30% Breathing Efficiency",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Whispering Bonefish",
+      "duration": "",
+      "effect": "30% Breathing Efficiency",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Moon Turtle",
+      "duration": "",
+      "effect": "30% Breathing Efficiency",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Wispscale Darter",
+      "duration": "",
+      "effect": "30% Breathing Efficiency",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Candelabra Octopus",
+      "duration": "03:00",
+      "effect": "30% Breathing Efficiency",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Clearwater Skipper",
+      "duration": "01:00",
+      "effect": "30% Breathing Efficiency",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Erased Clam",
+      "duration": "01:00",
+      "effect": "30% Breathing Efficiency",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Fumarole Gulper",
+      "duration": "02:00",
+      "effect": "30% Breathing Efficiency",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Greater Rocktooth",
+      "duration": "02:00",
+      "effect": "30% Breathing Efficiency",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Greenscale Bloater",
+      "duration": "01:30",
+      "effect": "30% Breathing Efficiency",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Jelly Prawn",
+      "duration": "01:00",
+      "effect": "30% Breathing Efficiency",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Jungle Redfin",
+      "duration": "01:30",
+      "effect": "30% Breathing Efficiency",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Murmurfish",
+      "duration": "01:00",
+      "effect": "30% Breathing Efficiency",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Solar Roach",
+      "duration": "01:30",
+      "effect": "30% Breathing Efficiency",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Spotted Protofin",
+      "duration": "00:30",
+      "effect": "30% Breathing Efficiency",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Venomouos Triggerfin",
+      "duration": "00:30",
+      "effect": "30% Breathing Efficiency",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Void Squid",
+      "duration": "03:30",
+      "effect": "30% Breathing Efficiency",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Warty Frogfish",
+      "duration": "00:30",
+      "effect": "30% Breathing Efficiency",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Whipscale Darter",
+      "duration": "01:00",
+      "effect": "30% Breathing Efficiency",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Plasmatic Squid",
+      "duration": "",
+      "effect": "31% Breathing Efficiency",
+      "effect_value": 31
+    },
+    {
+      "nutrient": "Anemone Anomaly",
+      "duration": "01:00",
+      "effect": "31% Breathing Efficiency",
+      "effect_value": 31
+    },
+    {
+      "nutrient": "Geno-Prawn",
+      "duration": "01:00",
+      "effect": "31% Breathing Efficiency",
+      "effect_value": 31
+    },
+    {
+      "nutrient": "Green-Ring Octopus",
+      "duration": "01:30",
+      "effect": "31% Breathing Efficiency",
+      "effect_value": 31
+    },
+    {
+      "nutrient": "Screaming Crab",
+      "duration": "03:00",
+      "effect": "31% Breathing Efficiency",
+      "effect_value": 31
+    },
+    {
+      "nutrient": "Sweeperfish",
+      "duration": "01:00",
+      "effect": "31% Breathing Efficiency",
+      "effect_value": 31
+    },
+    {
+      "nutrient": "Pulp Urchin",
+      "duration": "",
+      "effect": "32% Breathing Efficiency",
+      "effect_value": 32
+    },
+    {
+      "nutrient": "Bladdersac",
+      "duration": "01:00",
+      "effect": "32% Breathing Efficiency",
+      "effect_value": 32
+    },
+    {
+      "nutrient": "Blue Ribbontail",
+      "duration": "01:30",
+      "effect": "32% Breathing Efficiency",
+      "effect_value": 32
+    },
+    {
+      "nutrient": "Colossal Meltfin",
+      "duration": "03:00",
+      "effect": "32% Breathing Efficiency",
+      "effect_value": 32
+    },
+    {
+      "nutrient": "Forktailed Splicer",
+      "duration": "01:00",
+      "effect": "32% Breathing Efficiency",
+      "effect_value": 32
+    },
+    {
+      "nutrient": "Lamptip Ray",
+      "duration": "01:00",
+      "effect": "32% Breathing Efficiency",
+      "effect_value": 32
+    },
+    {
+      "nutrient": "Pale Snowtail",
+      "duration": "01:30",
+      "effect": "32% Breathing Efficiency",
+      "effect_value": 32
+    },
+    {
+      "nutrient": "Reef eel",
+      "duration": "01:00",
+      "effect": "32% Breathing Efficiency",
+      "effect_value": 32
+    },
+    {
+      "nutrient": "Shrieking Flatfish",
+      "duration": "02:00",
+      "effect": "32% Breathing Efficiency",
+      "effect_value": 32
+    },
+    {
+      "nutrient": "Thunderfin",
+      "duration": "",
+      "effect": "33% Breathing Efficiency",
+      "effect_value": 33
+    },
+    {
+      "nutrient": "Colossal Jawfish",
+      "duration": "",
+      "effect": "33% Breathing Efficiency",
+      "effect_value": 33
+    },
+    {
+      "nutrient": "Metallic Shrimp",
+      "duration": "",
+      "effect": "33% Breathing Efficiency",
+      "effect_value": 33
+    },
+    {
+      "nutrient": "Crystalfin Shark",
+      "duration": "",
+      "effect": "33% Breathing Efficiency",
+      "effect_value": 33
+    },
+    {
+      "nutrient": "Alpha Squid",
+      "duration": "03:30",
+      "effect": "33% Breathing Efficiency",
+      "effect_value": 33
+    },
+    {
+      "nutrient": "Flashfire Eel",
+      "duration": "01:30",
+      "effect": "33% Breathing Efficiency",
+      "effect_value": 33
+    },
+    {
+      "nutrient": "Giant Hairy Crab",
+      "duration": "02:00",
+      "effect": "33% Breathing Efficiency",
+      "effect_value": 33
+    },
+    {
+      "nutrient": "Giant Witchfin",
+      "duration": "03:00",
+      "effect": "33% Breathing Efficiency",
+      "effect_value": 33
+    },
+    {
+      "nutrient": "Stargazer",
+      "duration": "01:30",
+      "effect": "33% Breathing Efficiency",
+      "effect_value": 33
+    },
+    {
+      "nutrient": "Stonescale Shark",
+      "duration": "",
+      "effect": "34% Breathing Efficiency",
+      "effect_value": 34
+    },
+    {
+      "nutrient": "Sunspine Basker",
+      "duration": "",
+      "effect": "34% Breathing Efficiency",
+      "effect_value": 34
+    },
+    {
+      "nutrient": "Abyssal Crab",
+      "duration": "",
+      "effect": "34% Breathing Efficiency",
+      "effect_value": 34
+    },
+    {
+      "nutrient": "Glacier Carp",
+      "duration": "01:30",
+      "effect": "34% Breathing Efficiency",
+      "effect_value": 34
+    },
+    {
+      "nutrient": "Warden Eel",
+      "duration": "02:00",
+      "effect": "34% Breathing Efficiency",
+      "effect_value": 34
+    },
+    {
+      "nutrient": "Grilled Fillet",
+      "duration": "05:00",
+      "effect": "35% Breathing Efficiency 5 Min",
+      "effect_value": 35
+    },
+    {
+      "nutrient": "Basalt-Tooth Bloater",
+      "duration": "02:00",
+      "effect": "35% Breathing Efficiency",
+      "effect_value": 35
+    },
+    {
+      "nutrient": "Boiling Shark",
+      "duration": "03:00",
+      "effect": "35% Breathing Efficiency",
+      "effect_value": 35
+    },
+    {
+      "nutrient": "Mantis Ray",
+      "duration": "02:00",
+      "effect": "35% Breathing Efficiency",
+      "effect_value": 35
+    },
+    {
+      "nutrient": "Kelp Rice",
+      "duration": "03:00",
+      "effect": "36% Breathing Efficiency 3 Min ",
+      "effect_value": 36
+    },
+    {
+      "nutrient": "Colossal Shrimp",
+      "duration": "",
+      "effect": "36% Breathing Efficiency",
+      "effect_value": 36
+    },
+    {
+      "nutrient": "Bitterscale Ray",
+      "duration": "",
+      "effect": "36% Breathing Efficiency",
+      "effect_value": 36
+    },
+    {
+      "nutrient": "Deepwater Angler",
+      "duration": "",
+      "effect": "37% Breathing Efficiency",
+      "effect_value": 37
+    },
+    {
+      "nutrient": "Ferrite Bowfin",
+      "duration": "03:00",
+      "effect": "37% Breathing Efficiency",
+      "effect_value": 37
+    },
+    {
+      "nutrient": "Giant Icefin",
+      "duration": "03:00",
+      "effect": "37% Breathing Efficiency",
+      "effect_value": 37
+    },
+    {
+      "nutrient": "Immportal Flatfish",
+      "duration": "03:00",
+      "effect": "37% Breathing Efficiency",
+      "effect_value": 37
+    },
+    {
+      "nutrient": "Ocean's Star",
+      "duration": "03:00",
+      "effect": "37% Breathing Efficiency",
+      "effect_value": 37
+    },
+    {
+      "nutrient": "Pickled Fish",
+      "duration": "04:30",
+      "effect": "37% Breathing Efficiency",
+      "effect_value": 37
+    },
+    {
+      "nutrient": "Giant Ray",
+      "duration": "",
+      "effect": "38% Breathing Efficiency",
+      "effect_value": 38
+    },
+    {
+      "nutrient": "Sunspot Eel",
+      "duration": "",
+      "effect": "38% Breathing Efficiency",
+      "effect_value": 38
+    },
+    {
+      "nutrient": "Jellymeat",
+      "duration": "05:30",
+      "effect": "38% Breathing Efficiency 5:30 Min",
+      "effect_value": 38
+    },
+    {
+      "nutrient": "Black-Eyed Shark",
+      "duration": "03:30",
+      "effect": "38% Breathing Efficiency",
+      "effect_value": 38
+    },
+    {
+      "nutrient": "Iceshell Turtle",
+      "duration": "03:00",
+      "effect": "38% Breathing Efficiency",
+      "effect_value": 38
+    },
+    {
+      "nutrient": "Wrackjaw",
+      "duration": "",
+      "effect": "39% Breathing Efficiency",
+      "effect_value": 39
+    },
+    {
+      "nutrient": "Cave Prowler",
+      "duration": "03:30",
+      "effect": "39% Breathing Efficiency",
+      "effect_value": 39
+    },
+    {
+      "nutrient": "Shrieking Venttail",
+      "duration": "03:00",
+      "effect": "39% Breathing Efficiency",
+      "effect_value": 39
+    },
+    {
+      "nutrient": "Tendrilla",
+      "duration": "03:00",
+      "effect": "39% Breathing Efficiency",
+      "effect_value": 39
+    },
+    {
+      "nutrient": "Saltscale Bloater",
+      "duration": "03:00",
+      "effect": "40% Breathing Efficiency",
+      "effect_value": 40
+    },
+    {
+      "nutrient": "Colossal Mossback",
+      "duration": "",
+      "effect": "41% Breathing Efficiency",
+      "effect_value": 41
+    },
+    {
+      "nutrient": "Steamed Rubber",
+      "duration": "05:30",
+      "effect": "42% Breathing Efficiency 5:30 Min",
+      "effect_value": 42
+    },
+    {
+      "nutrient": "Poached Worms",
+      "duration": "05:30",
+      "effect": "43% Breathing Efficiency 5:30 Min",
+      "effect_value": 43
+    },
+    {
+      "nutrient": "Fleshy Cylinder",
+      "duration": "05:30",
+      "effect": "43% Breathing Efficiency 5:30 Min",
+      "effect_value": 43
+    },
+    {
+      "nutrient": "Shell Puree",
+      "duration": "05:30",
+      "effect": "43% Breathing Efficiency",
+      "effect_value": 43
+    },
+    {
+      "nutrient": "Mollusc Flesh",
+      "duration": "05:30",
+      "effect": "44% Breathing Efficiency 5:30 Min",
+      "effect_value": 44
+    },
+    {
+      "nutrient": "Fish And Rice",
+      "duration": "07:30",
+      "effect": "44% Breathing Efficiency 7:30 Min",
+      "effect_value": 44
+    },
+    {
+      "nutrient": "Whole Roast Fish",
+      "duration": "06:00",
+      "effect": "44% Breathing Efficiency",
+      "effect_value": 44
+    },
+    {
+      "nutrient": "Starched Fish",
+      "duration": "07:30",
+      "effect": "45% Breathing Efficiency 7:30 Min",
+      "effect_value": 45
+    },
+    {
+      "nutrient": "Jellied Eel",
+      "duration": "07:30",
+      "effect": "46% Breathing Efficiency",
+      "effect_value": 46
+    },
+    {
+      "nutrient": "Fish Pie",
+      "duration": "08:00",
+      "effect": "47% Breathing Efficiency 8 Min ",
+      "effect_value": 47
+    },
+    {
+      "nutrient": "Fish Biscuit",
+      "duration": "06:36",
+      "effect": "47% Breathing Efficiency 6:36 Min ",
+      "effect_value": 47
+    },
+    {
+      "nutrient": "Salty Platter",
+      "duration": "",
+      "effect": "48% Breathing Efficiency",
+      "effect_value": 48
+    },
+    {
+      "nutrient": "Haunted Fillet",
+      "duration": "07:30",
+      "effect": "50% Breathing Efficiency",
+      "effect_value": 50
+    },
+    {
+      "nutrient": "Marine Pie",
+      "duration": "08:30",
+      "effect": "51% Breathing Efficiency",
+      "effect_value": 51
+    },
+    {
+      "nutrient": "Sea's Bounty",
+      "duration": "10:00",
+      "effect": "55% Breathing Efficiency 10 Min",
+      "effect_value": 55
+    },
+    {
+      "nutrient": "Assorted Roe",
+      "duration": "07:30",
+      "effect": "56% Breathing Efficiency 7:30 Min",
+      "effect_value": 56
+    },
+    {
+      "nutrient": "Salty Juice",
+      "duration": "09:00",
+      "effect": "58% Breathing Efficiency 9 Min",
+      "effect_value": 58
+    },
+    {
+      "nutrient": "Seafood Stew",
+      "duration": "",
+      "effect": "58% Breathing Efficiency",
+      "effect_value": 58
+    },
+    {
+      "nutrient": "Deathly-Cold Ice Cream",
+      "duration": "",
+      "effect": "64% Breathing Efficiency",
+      "effect_value": 64
+    }
+  ],
+  "cold resistance": [
+    {
+      "nutrient": "Hypnotic Eye",
+      "duration": "00:06",
+      "effect": "16% Cold Resistance 6 Sec",
+      "effect_value": 16
+    },
+    {
+      "nutrient": "Frozen Tubers",
+      "duration": "02:30",
+      "effect": "22% Cold Resistance 2:30 Min ",
+      "effect_value": 22
+    },
+    {
+      "nutrient": "Glass Grains",
+      "duration": "03:00",
+      "effect": "28% Cold Resistance 3 Min ",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Cactus Nectar",
+      "duration": "03:00",
+      "effect": "34% Cold Resistance 3 Min ",
+      "effect_value": 34
+    },
+    {
+      "nutrient": "Cough Biscuits",
+      "duration": "06:36",
+      "effect": "44% Cold Resistance 6:36 Min ",
+      "effect_value": 44
+    },
+    {
+      "nutrient": "Cactus Jelly",
+      "duration": "08:00",
+      "effect": "51% Cold Resistance 8 Min ",
+      "effect_value": 51
+    },
+    {
+      "nutrient": "Caramel Ice Cream",
+      "duration": "10:00",
+      "effect": "53% Cold Resistance 10 Min ",
+      "effect_value": 53
+    },
+    {
+      "nutrient": "Iced Screams",
+      "duration": "10:00",
+      "effect": "54% Cold Resistance 10 Min ",
+      "effect_value": 54
+    },
+    {
+      "nutrient": "Chocolate Ice Cream",
+      "duration": "10:00",
+      "effect": "54% Cold Resistance 10 Min ",
+      "effect_value": 54
+    },
+    {
+      "nutrient": "Honey Ice Cream",
+      "duration": "10:00",
+      "effect": "56% Cold Resistance 10 Min ",
+      "effect_value": 56
+    },
+    {
+      "nutrient": "Fruity Ice Cream",
+      "duration": "10:00",
+      "effect": "57% Cold Resistance 10 Min ",
+      "effect_value": 57
+    },
+    {
+      "nutrient": "Apple' Ice Cream",
+      "duration": "10:00",
+      "effect": "59% Cold Resistance 10 Min ",
+      "effect_value": 59
+    },
+    {
+      "nutrient": "Vy'Ice Cream",
+      "duration": "10:00",
+      "effect": "60% Cold Resistance 10 Min ",
+      "effect_value": 60
+    },
+    {
+      "nutrient": "Briney Rime",
+      "duration": "10:00",
+      "effect": "63% Cold Resistance 10 Min ",
+      "effect_value": 63
+    },
+    {
+      "nutrient": "Ice Cream",
+      "duration": "10:00",
+      "effect": "65% Cold Resistance 10 Min ",
+      "effect_value": 65
+    }
+  ],
+  "sprint distance": [
+    {
+      "nutrient": "Creature Egg",
+      "duration": "01:30",
+      "effect": "13% Sprint Distance 1:30 Min",
+      "effect_value": 13
+    },
+    {
+      "nutrient": "Giant Egg",
+      "duration": "02:00",
+      "effect": "15% Sprint Distance 2 Min",
+      "effect_value": 15
+    },
+    {
+      "nutrient": "Bone Nuggets",
+      "duration": "02:00",
+      "effect": "15% Sprint Distance 2 Min",
+      "effect_value": 15
+    },
+    {
+      "nutrient": "Chewy Wires",
+      "duration": "02:00",
+      "effect": "15% Sprint Distance 2 Min",
+      "effect_value": 15
+    },
+    {
+      "nutrient": "Syrupy Viscera",
+      "duration": "02:00",
+      "effect": "15% Sprint Distance 2 Min",
+      "effect_value": 15
+    },
+    {
+      "nutrient": "Sticky 'Honey'",
+      "duration": "02:00",
+      "effect": "16% Sprint Distance 2 Min",
+      "effect_value": 16
+    },
+    {
+      "nutrient": "Warm Proto-Milk",
+      "duration": "02:00",
+      "effect": "16% Sprint Distance 2 Min",
+      "effect_value": 16
+    },
+    {
+      "nutrient": "Leopard Fruit",
+      "duration": "02:00",
+      "effect": "16% Sprint Distance 2 Min",
+      "effect_value": 16
+    },
+    {
+      "nutrient": "Tall Eggs",
+      "duration": "02:00",
+      "effect": "16% Sprint Distance 2 Min",
+      "effect_value": 16
+    },
+    {
+      "nutrient": "Fresh Milk",
+      "duration": "02:00",
+      "effect": "16% Sprint Distance 2 Min",
+      "effect_value": 16
+    },
+    {
+      "nutrient": "Foraged Mushrooms",
+      "duration": "02:00",
+      "effect": "16% Sprint Distance 2 Min",
+      "effect_value": 16
+    },
+    {
+      "nutrient": "Syrupy Nectar",
+      "duration": "02:00",
+      "effect": "16% Sprint Distance 2 Min",
+      "effect_value": 16
+    },
+    {
+      "nutrient": "Nourishing Slime",
+      "duration": "02:00",
+      "effect": "16% Sprint Distance 2 Min ",
+      "effect_value": 16
+    },
+    {
+      "nutrient": "Crab 'Apple'",
+      "duration": "02:00",
+      "effect": "17% Sprint Distance 2 Min",
+      "effect_value": 17
+    },
+    {
+      "nutrient": "Syrupy Batter",
+      "duration": "04:00",
+      "effect": "28% Sprint Distance 4 Min",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Cream",
+      "duration": "05:00",
+      "effect": "34% Sprint Distance 5 Min ",
+      "effect_value": 34
+    },
+    {
+      "nutrient": "Dough",
+      "duration": "05:00",
+      "effect": "34% Sprint Distance 5 Min ",
+      "effect_value": 34
+    },
+    {
+      "nutrient": "Tangy Cheese",
+      "duration": "06:00",
+      "effect": "39% Sprint Distance 6 Min ",
+      "effect_value": 39
+    },
+    {
+      "nutrient": "Proto-Cream",
+      "duration": "06:00",
+      "effect": "41% Sprint Distance 6 Min ",
+      "effect_value": 41
+    },
+    {
+      "nutrient": "Jammy Rounds",
+      "duration": "06:36",
+      "effect": "41% Sprint Distance 6:36 Min ",
+      "effect_value": 41
+    },
+    {
+      "nutrient": "Apple' Roll",
+      "duration": "06:36",
+      "effect": "42% Sprint Distance 6:36 Min ",
+      "effect_value": 42
+    },
+    {
+      "nutrient": "Anomalous Jam",
+      "duration": "08:00",
+      "effect": "49% Sprint Distance 8 Min ",
+      "effect_value": 49
+    },
+    {
+      "nutrient": "ProtoCheese",
+      "duration": "08:00",
+      "effect": "51% Sprint Distance 8 Min ",
+      "effect_value": 51
+    },
+    {
+      "nutrient": "Cheese-And-Flesh Stew",
+      "duration": "10:00",
+      "effect": "60% Sprint Distance 10 Min",
+      "effect_value": 60
+    },
+    {
+      "nutrient": "The Spawning Tart",
+      "duration": "10:00",
+      "effect": "61% Sprint Distance 10 Min ",
+      "effect_value": 61
+    },
+    {
+      "nutrient": "Creamed Organ Soup",
+      "duration": "10:00",
+      "effect": "62% Sprint Distance 10 Min",
+      "effect_value": 62
+    },
+    {
+      "nutrient": "Tangy Vegetable Stew",
+      "duration": "10:00",
+      "effect": "63% Sprint Distance 10 Min",
+      "effect_value": 63
+    },
+    {
+      "nutrient": "Tangy Organ Surprise",
+      "duration": "10:00",
+      "effect": "63% Sprint Distance 10 Min",
+      "effect_value": 63
+    },
+    {
+      "nutrient": "Haunted Pie",
+      "duration": "10:00",
+      "effect": "65% Sprint Distance 10 Min ",
+      "effect_value": 65
+    },
+    {
+      "nutrient": "Refined Flour",
+      "duration": "18:00",
+      "effect": "108% Sprint Distance 18 Min",
+      "effect_value": 108
+    }
+  ],
+  "life support tanks": [
+    {
+      "nutrient": "Regis Grease",
+      "duration": "01:00",
+      "effect": "5% Life Support Tanks 1 Min",
+      "effect_value": 5
+    },
+    {
+      "nutrient": "Rancid Flesh",
+      "duration": "01:00",
+      "effect": "5% Life Support Tanks 1 Min ",
+      "effect_value": 5
+    },
+    {
+      "nutrient": "Impulse Beans",
+      "duration": "02:30",
+      "effect": "23% Life Support Tanks 2:30 Min ",
+      "effect_value": 23
+    },
+    {
+      "nutrient": "Pilgrimberry",
+      "duration": "03:00",
+      "effect": "29% Life Support Tanks 3 Min",
+      "effect_value": 29
+    },
+    {
+      "nutrient": "Baked Eggs",
+      "duration": "04:00",
+      "effect": "42% Life Support Tanks 4 Min ",
+      "effect_value": 42
+    },
+    {
+      "nutrient": "Pie Case",
+      "duration": "05:00",
+      "effect": "55% Life Support Tanks 5 Min ",
+      "effect_value": 55
+    },
+    {
+      "nutrient": "Crunchy Caramel",
+      "duration": "06:00",
+      "effect": "67% Life Support Tanks 6 Min",
+      "effect_value": 67
+    },
+    {
+      "nutrient": "Sweetened Butter",
+      "duration": "06:00",
+      "effect": "68% Life Support Tanks 6 Min ",
+      "effect_value": 68
+    },
+    {
+      "nutrient": "Honey Butter",
+      "duration": "06:00",
+      "effect": "69% Life Support Tanks 6 Min ",
+      "effect_value": 69
+    },
+    {
+      "nutrient": "Cocoa Creams",
+      "duration": "06:36",
+      "effect": "71% Life Support Tanks 6:36 Min ",
+      "effect_value": 71
+    },
+    {
+      "nutrient": "Sticky Finger",
+      "duration": "06:36",
+      "effect": "74% Life Support Tanks 6:36 Min ",
+      "effect_value": 74
+    },
+    {
+      "nutrient": "Pilgrim's Tonic",
+      "duration": "07:00",
+      "effect": "77% Life Support Tanks 7 Min ",
+      "effect_value": 77
+    },
+    {
+      "nutrient": "Refreshing Drink",
+      "duration": "07:00",
+      "effect": "79% Life Support Tanks 7 Min ",
+      "effect_value": 79
+    },
+    {
+      "nutrient": "Honied Proto-Butter",
+      "duration": "08:00",
+      "effect": "88% Life Support Tanks 8 Min ",
+      "effect_value": 88
+    },
+    {
+      "nutrient": "Sweetened Proto-Butter",
+      "duration": "08:00",
+      "effect": "89% Life Support Tanks 8 Min",
+      "effect_value": 89
+    },
+    {
+      "nutrient": "Honey Tart",
+      "duration": "10:00",
+      "effect": "113% Life Support Tanks 10 Min ",
+      "effect_value": 113
+    },
+    {
+      "nutrient": "Seeping Pie",
+      "duration": "10:00",
+      "effect": "116% Life Support Tanks 10 Min ",
+      "effect_value": 116
+    },
+    {
+      "nutrient": "Muculent Tart",
+      "duration": "10:00",
+      "effect": "120% Life Support Tanks 10 Min ",
+      "effect_value": 120
+    }
+  ],
+  "sprint recovery time": [
+    {
+      "nutrient": "Leg Meat",
+      "duration": "01:30",
+      "effect": "2% Sprint Recovery Time 1:30 Min ",
+      "effect_value": 2
+    },
+    {
+      "nutrient": "Meaty Chunks",
+      "duration": "01:00",
+      "effect": "2% Sprint Recovery Time 1 Min",
+      "effect_value": 2
+    },
+    {
+      "nutrient": "Craw Milk",
+      "duration": "01:30",
+      "effect": "3% Sprint Recovery Time 1:30 Min",
+      "effect_value": 3
+    },
+    {
+      "nutrient": "Diplo Chunks",
+      "duration": "01:30",
+      "effect": "3% Sprint Recovery Time 1:30 Min",
+      "effect_value": 3
+    },
+    {
+      "nutrient": "Latticed Sinew",
+      "duration": "01:30",
+      "effect": "3% Sprint Recovery Time 1:30 Min",
+      "effect_value": 3
+    },
+    {
+      "nutrient": "Juicy Thorax",
+      "duration": "01:30",
+      "effect": "3% Sprint Recovery Time 1:30 Min ",
+      "effect_value": 3
+    },
+    {
+      "nutrient": "Crunchy Wings",
+      "duration": "01:30",
+      "effect": "4% Sprint Recovery Time 1:30 Min",
+      "effect_value": 4
+    },
+    {
+      "nutrient": "Offal Sac",
+      "duration": "01:30",
+      "effect": "5% Sprint Recovery Time 1:30 Min",
+      "effect_value": 5
+    },
+    {
+      "nutrient": "ProtoSausage",
+      "duration": "01:30",
+      "effect": "5% Sprint Recovery Time 1:30 Min",
+      "effect_value": 5
+    },
+    {
+      "nutrient": "Scooped Innards",
+      "duration": "01:30",
+      "effect": "5% Sprint Recovery Time 1:30 Min ",
+      "effect_value": 5
+    },
+    {
+      "nutrient": "Writhing, Roiling Batter",
+      "duration": "04:00",
+      "effect": "5% Sprint Recovery Time 4 Min",
+      "effect_value": 5
+    },
+    {
+      "nutrient": "Gelatinous Goop",
+      "duration": "06:30",
+      "effect": "5% Sprint Recovery Time 6:30 Min",
+      "effect_value": 5
+    },
+    {
+      "nutrient": "Honey Waffle",
+      "duration": "06:36",
+      "effect": "5% Sprint Recovery Time 6:36 Min ",
+      "effect_value": 5
+    },
+    {
+      "nutrient": "Salty Salty Chunks",
+      "duration": "01:30",
+      "effect": "6% Sprint Recovery Time 1:30 Min",
+      "effect_value": 6
+    },
+    {
+      "nutrient": "Crystal Flesh",
+      "duration": "01:30",
+      "effect": "6% Sprint Recovery Time 1:30 Min",
+      "effect_value": 6
+    },
+    {
+      "nutrient": "Viscous Custard",
+      "duration": "07:00",
+      "effect": "6% Sprint Recovery Time 7 Min ",
+      "effect_value": 6
+    },
+    {
+      "nutrient": "Legs-In-Pastry'",
+      "duration": "10:00",
+      "effect": "6% Sprint Recovery Time 10 Min ",
+      "effect_value": 6
+    },
+    {
+      "nutrient": "Salty Chunks",
+      "duration": "01:30",
+      "effect": "6% Sprint Recovery Time",
+      "effect_value": 6
+    },
+    {
+      "nutrient": "Scaly Meat",
+      "duration": "01:30",
+      "effect": "7% Sprint Recovery Time 1:30 Min",
+      "effect_value": 7
+    },
+    {
+      "nutrient": "Monstrous Custard",
+      "duration": "10:00",
+      "effect": "7% Sprint Recovery Time 10 Min ",
+      "effect_value": 7
+    },
+    {
+      "nutrient": "Caramel Tart",
+      "duration": "10:00",
+      "effect": "7% Sprint Recovery Time 10 Min ",
+      "effect_value": 7
+    },
+    {
+      "nutrient": "Fiendish Roe",
+      "duration": "01:30",
+      "effect": "8% Sprint Recovery Time 1:30 Min",
+      "effect_value": 8
+    },
+    {
+      "nutrient": "Strider Sausage",
+      "duration": "01:30",
+      "effect": "8% Sprint Recovery Time 1:30 Min",
+      "effect_value": 8
+    },
+    {
+      "nutrient": "Lumpy Brainstem",
+      "duration": "01:30",
+      "effect": "8% Sprint Recovery Time 1:30 Min",
+      "effect_value": 8
+    },
+    {
+      "nutrient": "Proto-Sausage Pie",
+      "duration": "10:00",
+      "effect": "8% Sprint Recovery Time 10 Min ",
+      "effect_value": 8
+    },
+    {
+      "nutrient": "Mushed Root Pie",
+      "duration": "10:00",
+      "effect": "8% Sprint Recovery Time 10 Min ",
+      "effect_value": 8
+    },
+    {
+      "nutrient": "Leathery Tart",
+      "duration": "10:00",
+      "effect": "8% Sprint Recovery Time 10 Min ",
+      "effect_value": 8
+    },
+    {
+      "nutrient": "Meaty Wings",
+      "duration": "01:30",
+      "effect": "9% Sprint Recovery Time 1:30 Min",
+      "effect_value": 9
+    },
+    {
+      "nutrient": "Raw Steak",
+      "duration": "01:30",
+      "effect": "9% Sprint Recovery Time 1:30 Min",
+      "effect_value": 9
+    },
+    {
+      "nutrient": "Delicate Meringue",
+      "duration": "07:00",
+      "effect": "9% Sprint Recovery Time 7 Min ",
+      "effect_value": 9
+    },
+    {
+      "nutrient": "Stellar Custard",
+      "duration": "",
+      "effect": "9% Sprint Recovery Time ",
+      "effect_value": 9
+    },
+    {
+      "nutrient": "Stewed Organs",
+      "duration": "06:30",
+      "effect": "9% Sprint Recovery Time 6:30 Min",
+      "effect_value": 9
+    },
+    {
+      "nutrient": "Cream Of Vegetable Soup",
+      "duration": "10:00",
+      "effect": "9% Sprint Recovery Time 10 Min",
+      "effect_value": 9
+    },
+    {
+      "nutrient": "Cocoa Tart",
+      "duration": "10:00",
+      "effect": "9% Sprint Recovery Time 10 Min ",
+      "effect_value": 9
+    },
+    {
+      "nutrient": "Creamy Treat",
+      "duration": "10:00",
+      "effect": "9% Sprint Recovery Time 10 Min ",
+      "effect_value": 9
+    },
+    {
+      "nutrient": "Softened Marrow",
+      "duration": "03:00",
+      "effect": "9% Sprint Recovery Time 3 Min",
+      "effect_value": 9
+    },
+    {
+      "nutrient": "Cream of Vegetable Stew",
+      "duration": "10:00",
+      "effect": "9% Sprint Recovery Time",
+      "effect_value": 9
+    },
+    {
+      "nutrient": "Feline Liver",
+      "duration": "01:30",
+      "effect": "10% Sprint Recovery Time 1:30 Min",
+      "effect_value": 10
+    },
+    {
+      "nutrient": "Whispering Omelette",
+      "duration": "06:30",
+      "effect": "10% Sprint Recovery Time 6:30 Min",
+      "effect_value": 10
+    },
+    {
+      "nutrient": "Custard Tart",
+      "duration": "10:00",
+      "effect": "10% Sprint Recovery Time 10 Min ",
+      "effect_value": 10
+    },
+    {
+      "nutrient": "Wild Milk",
+      "duration": "01:30",
+      "effect": "11% Sprint Recovery Time 1:30 Min",
+      "effect_value": 11
+    },
+    {
+      "nutrient": "Dirty Meat",
+      "duration": "01:30",
+      "effect": "11% Sprint Recovery Time 1:30 Min",
+      "effect_value": 11
+    },
+    {
+      "nutrient": "Juicy Grub",
+      "duration": "01:30",
+      "effect": "11% Sprint Recovery Time 1:30 Min",
+      "effect_value": 11
+    },
+    {
+      "nutrient": "Thick, Sweet Batter",
+      "duration": "04:00",
+      "effect": "11% Sprint Recovery Time 4 Min",
+      "effect_value": 11
+    },
+    {
+      "nutrient": "Thick Meat Stew",
+      "duration": "10:00",
+      "effect": "11% Sprint Recovery Time 10 Min",
+      "effect_value": 11
+    },
+    {
+      "nutrient": "Chewy Organ Pie",
+      "duration": "10:00",
+      "effect": "11% Sprint Recovery Time 10 Min ",
+      "effect_value": 11
+    },
+    {
+      "nutrient": "Cake Batter",
+      "duration": "04:00",
+      "effect": "12% Sprint Recovery Time 4 Min",
+      "effect_value": 12
+    },
+    {
+      "nutrient": "Wailing Batter",
+      "duration": "04:00",
+      "effect": "12% Sprint Recovery Time 4 Min",
+      "effect_value": 12
+    },
+    {
+      "nutrient": "Fibrous Stew",
+      "duration": "08:00",
+      "effect": "13% Sprint Recovery Time 8 Min",
+      "effect_value": 13
+    },
+    {
+      "nutrient": "Salty Custard",
+      "duration": "10:00",
+      "effect": "14% Sprint Recovery Time 10 Min ",
+      "effect_value": 14
+    },
+    {
+      "nutrient": "Questionable Biscuit",
+      "duration": "06:36",
+      "effect": "14% Sprint Recovery Time 6:36 Min ",
+      "effect_value": 14
+    },
+    {
+      "nutrient": "Mystery Meat Stew",
+      "duration": "08:00",
+      "effect": "15% Sprint Recovery Time 8 Min",
+      "effect_value": 15
+    },
+    {
+      "nutrient": "Jellied Fur Tart",
+      "duration": "10:00",
+      "effect": "16% Sprint Recovery Time 10 Min ",
+      "effect_value": 16
+    },
+    {
+      "nutrient": "Extra-Fluffy Batter",
+      "duration": "04:00",
+      "effect": "26% Sprint Recovery Time 4 Min",
+      "effect_value": 26
+    },
+    {
+      "nutrient": "Proto-Batter",
+      "duration": "04:00",
+      "effect": "27% Sprint Recovery Time 4 Min",
+      "effect_value": 27
+    }
+  ],
+  "heat resistance": [
+    {
+      "nutrient": "Fireberry",
+      "duration": "02:30",
+      "effect": "24% Heat Resistance 2:30 Min ",
+      "effect_value": 24
+    },
+    {
+      "nutrient": "Aloe Flesh",
+      "duration": "02:30",
+      "effect": "24% Heat Resistance 2:30 Min ",
+      "effect_value": 24
+    },
+    {
+      "nutrient": "Solartillo",
+      "duration": "03:00",
+      "effect": "25% Heat Resistance 3 Min",
+      "effect_value": 25
+    },
+    {
+      "nutrient": "Well-Smoked Biscuit",
+      "duration": "02:00",
+      "effect": "25% Heat Resistance 2 Min ",
+      "effect_value": 25
+    },
+    {
+      "nutrient": "Smoked Meat",
+      "duration": "05:00",
+      "effect": "33% Heat Resistance 5 Min ",
+      "effect_value": 33
+    },
+    {
+      "nutrient": "Scorching Sauce",
+      "duration": "07:00",
+      "effect": "43% Heat Resistance 7 Min ",
+      "effect_value": 43
+    },
+    {
+      "nutrient": "Tooth Pickers",
+      "duration": "06:36",
+      "effect": "43% Heat Resistance 6:36 Min ",
+      "effect_value": 43
+    },
+    {
+      "nutrient": "Burning Surprise",
+      "duration": "06:36",
+      "effect": "45% Heat Resistance 6:36 Min ",
+      "effect_value": 45
+    },
+    {
+      "nutrient": "Fire Water",
+      "duration": "07:00",
+      "effect": "50% Heat Resistance 7 Min ",
+      "effect_value": 50
+    },
+    {
+      "nutrient": "Syrupy Tingler",
+      "duration": "10:00",
+      "effect": "51% Heat Resistance 10 Min ",
+      "effect_value": 51
+    },
+    {
+      "nutrient": "Ever-Burning Jam",
+      "duration": "08:00",
+      "effect": "52% Heat Resistance 8 Min ",
+      "effect_value": 52
+    },
+    {
+      "nutrient": "Devilled Organs",
+      "duration": "10:00",
+      "effect": "54% Heat Resistance 10 Min",
+      "effect_value": 54
+    },
+    {
+      "nutrient": "Spiced Ice",
+      "duration": "10:00",
+      "effect": "58% Heat Resistance 10 Min ",
+      "effect_value": 58
+    },
+    {
+      "nutrient": "Burning Jam Fluffer",
+      "duration": "10:00",
+      "effect": "58% Heat Resistance 10 Min ",
+      "effect_value": 58
+    },
+    {
+      "nutrient": "Fruity Pudding",
+      "duration": "10:00",
+      "effect": "61% Heat Resistance 10 Min ",
+      "effect_value": 61
+    },
+    {
+      "nutrient": "Spikey Tart",
+      "duration": "10:00",
+      "effect": "62% Heat Resistance 10 Min ",
+      "effect_value": 62
+    },
+    {
+      "nutrient": "Fiery Vegetable Stew",
+      "duration": "10:00",
+      "effect": "63% Heat Resistance 10 Min",
+      "effect_value": 63
+    },
+    {
+      "nutrient": "Spicy Fleshballs",
+      "duration": "10:00",
+      "effect": "64% Heat Resistance 10 Min",
+      "effect_value": 64
+    },
+    {
+      "nutrient": "Prickly Curiosity",
+      "duration": "10:00",
+      "effect": "64% Heat Resistance 10 Min ",
+      "effect_value": 64
+    },
+    {
+      "nutrient": "Burning Jam Surprise",
+      "duration": "10:00",
+      "effect": "65% Heat Resistance 10 Min ",
+      "effect_value": 65
+    }
+  ],
+  "toxic resistance": [
+    {
+      "nutrient": "Jade Peas",
+      "duration": "02:30",
+      "effect": "27% Toxic Resistance 2:30 Min",
+      "effect_value": 27
+    },
+    {
+      "nutrient": "Non-Toxic Mushroom",
+      "duration": "03:00",
+      "effect": "29% Toxic Resistance 3 Min ",
+      "effect_value": 29
+    },
+    {
+      "nutrient": "Non-Toxic Mushrooms",
+      "duration": "03:00",
+      "effect": "29% Toxic Resistance",
+      "effect_value": 29
+    },
+    {
+      "nutrient": "Popping Stew",
+      "duration": "6:30",
+      "effect": "39% Toxic Resistance 6:30",
+      "effect_value": 39
+    },
+    {
+      "nutrient": "Bugs-in-a-Blanket",
+      "duration": "06:30",
+      "effect": "41% Toxic Resistance 6:30 Min ",
+      "effect_value": 41
+    },
+    {
+      "nutrient": "Chewy Biscuit",
+      "duration": "06:36",
+      "effect": "42% Toxic Resistance 6:36 Min ",
+      "effect_value": 42
+    },
+    {
+      "nutrient": "Haunted Wafer",
+      "duration": "06:36",
+      "effect": "44% Toxic Resistance 6:36 Min ",
+      "effect_value": 44
+    },
+    {
+      "nutrient": "Fungal Omelette",
+      "duration": "06:30",
+      "effect": "46% Toxic Resistance 6:30 Min ",
+      "effect_value": 46
+    },
+    {
+      "nutrient": "Scrambled Marrow",
+      "duration": "06:30",
+      "effect": "50% Toxic Resistance 6:30 Min ",
+      "effect_value": 50
+    },
+    {
+      "nutrient": "The Worst Stew",
+      "duration": "6:30",
+      "effect": "50% Toxic Resistance 6:30",
+      "effect_value": 50
+    },
+    {
+      "nutrient": "Mucal Doughnut",
+      "duration": "10:00",
+      "effect": "56% Toxic Resistance 10 Min ",
+      "effect_value": 56
+    },
+    {
+      "nutrient": "Purged Ribs",
+      "duration": "07:30",
+      "effect": "57% Toxic Resistance 7:30 Min ",
+      "effect_value": 57
+    },
+    {
+      "nutrient": "Briney Delight",
+      "duration": "10:00",
+      "effect": "59% Toxic Resistance 10 Min ",
+      "effect_value": 59
+    },
+    {
+      "nutrient": "Slime Pop",
+      "duration": "10:00",
+      "effect": "68% Toxic Resistance 10 Min ",
+      "effect_value": 68
+    }
+  ],
+  "radiation resistance": [
+    {
+      "nutrient": "Grahberry",
+      "duration": "02:30",
+      "effect": "23% Radiation Resistance 2:30 Min ",
+      "effect_value": 23
+    },
+    {
+      "nutrient": "Sievert Beans",
+      "duration": "03:00",
+      "effect": "30% Radiation Resistance 3 Min ",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Wriggling Tack",
+      "duration": "06:36",
+      "effect": "39% Radiation Resistance 6:36 Min ",
+      "effect_value": 39
+    },
+    {
+      "nutrient": "Grahj'am",
+      "duration": "08:00",
+      "effect": "43% Radiation Resistance 8 Min ",
+      "effect_value": 43
+    },
+    {
+      "nutrient": "Glowing Pie",
+      "duration": "10:00",
+      "effect": "55% Radiation Resistance 10 Min ",
+      "effect_value": 55
+    }
+  ],
+  "hazard protection battery": [
+    {
+      "nutrient": "Heptaploid Wheat",
+      "duration": "02:00",
+      "effect": "12% Hazard Protection Battery 2 Min ",
+      "effect_value": 12
+    },
+    {
+      "nutrient": "Sweetroot",
+      "duration": "02:00",
+      "effect": "12% Hazard Protection Battery 2 Min ",
+      "effect_value": 12
+    },
+    {
+      "nutrient": "Pulpy Roots",
+      "duration": "02:00",
+      "effect": "12% Hazard Protection Battery 2 Min ",
+      "effect_value": 12
+    },
+    {
+      "nutrient": "Sugar Dough",
+      "duration": "02:00",
+      "effect": "13% Hazard Protection Battery 2 Min ",
+      "effect_value": 13
+    },
+    {
+      "nutrient": "Marrow Flesh",
+      "duration": "03:00",
+      "effect": "14% Hazard Protection Battery 3 Min ",
+      "effect_value": 14
+    },
+    {
+      "nutrient": "Meat Flakes",
+      "duration": "03:00",
+      "effect": "14% Hazard Protection Battery 3 Min ",
+      "effect_value": 14
+    },
+    {
+      "nutrient": "Hexaberry",
+      "duration": "03:30",
+      "effect": "15% Hazard Protection Battery 3:30 Min",
+      "effect_value": 15
+    },
+    {
+      "nutrient": "Silicon Egg",
+      "duration": "04:00",
+      "effect": "16% Hazard Protection Battery 4 Min",
+      "effect_value": 16
+    },
+    {
+      "nutrient": "Simple Biscuit",
+      "duration": "04:00",
+      "effect": "16% Hazard Protection Battery 4 Min ",
+      "effect_value": 16
+    },
+    {
+      "nutrient": "Processed Meat",
+      "duration": "05:00",
+      "effect": "20% Hazard Protection Battery 5 Min",
+      "effect_value": 20
+    },
+    {
+      "nutrient": "Bread",
+      "duration": "06:00",
+      "effect": "22% Hazard Protection Battery 6 Min ",
+      "effect_value": 22
+    },
+    {
+      "nutrient": "Salty Cruncher",
+      "duration": "06:36",
+      "effect": "22% Hazard Protection Battery 6:36 Min",
+      "effect_value": 22
+    },
+    {
+      "nutrient": "Enriched Biscuit",
+      "duration": "06:36",
+      "effect": "22% Hazard Protection Battery 6:36 Min ",
+      "effect_value": 22
+    },
+    {
+      "nutrient": "Cream Fingers",
+      "duration": "06:36",
+      "effect": "22% Hazard Protection Battery 6:36 Min ",
+      "effect_value": 22
+    },
+    {
+      "nutrient": "Bittersweet Cocoa",
+      "duration": "07:00",
+      "effect": "23% Hazard Protection Battery 7 Min",
+      "effect_value": 23
+    },
+    {
+      "nutrient": "Creamy Sauce",
+      "duration": "07:00",
+      "effect": "23% Hazard Protection Battery 7 Min",
+      "effect_value": 23
+    },
+    {
+      "nutrient": "Partially-Liquid Cheese",
+      "duration": "07:00",
+      "effect": "23% Hazard Protection Battery 7 Min",
+      "effect_value": 23
+    },
+    {
+      "nutrient": "Flavoursome Sauce",
+      "duration": "07:00",
+      "effect": "24% Hazard Protection Battery 7 Min",
+      "effect_value": 24
+    },
+    {
+      "nutrient": "Lumpen Doughnut",
+      "duration": "07:00",
+      "effect": "25% Hazard Protection Battery 7 Min ",
+      "effect_value": 25
+    },
+    {
+      "nutrient": "Smokey Meat Pie",
+      "duration": "08:00",
+      "effect": "25% Hazard Protection Battery 8 Min ",
+      "effect_value": 25
+    },
+    {
+      "nutrient": "Furball Jelly",
+      "duration": "08:00",
+      "effect": "26% Hazard Protection Battery 8 Min ",
+      "effect_value": 26
+    },
+    {
+      "nutrient": "Wriggling Jam",
+      "duration": "08:00",
+      "effect": "26% Hazard Protection Battery 8 Min ",
+      "effect_value": 26
+    },
+    {
+      "nutrient": "Proto-Beignet",
+      "duration": "08:00",
+      "effect": "26% Hazard Protection Battery 8 Min ",
+      "effect_value": 26
+    },
+    {
+      "nutrient": "High-Fibre Pie",
+      "duration": "08:00",
+      "effect": "26% Hazard Protection Battery 8 Min ",
+      "effect_value": 26
+    },
+    {
+      "nutrient": "Sweetened Mucous",
+      "duration": "08:00",
+      "effect": "27% Hazard Protection Battery 8 Min ",
+      "effect_value": 27
+    },
+    {
+      "nutrient": "Mystery Meat Pie",
+      "duration": "08:00",
+      "effect": "28% Hazard Protection Battery 8 Min ",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Baked Cheese Tart",
+      "duration": "10:00",
+      "effect": "30% Hazard Protection Battery 10 Min ",
+      "effect_value": 30
+    },
+    {
+      "nutrient": "Cheesy Vegetable Pie",
+      "duration": "10:00",
+      "effect": "32% Hazard Protection Battery 10 Min ",
+      "effect_value": 32
+    }
+  ],
+  "words translated": [
+    {
+      "nutrient": "Wild Yeast",
+      "duration": "03:00",
+      "effect": "1 Words Translated 3 Min",
+      "effect_value": 0
+    },
+    {
+      "nutrient": "Horrifying Mush",
+      "duration": "05:00",
+      "effect": "2 Words Translated 5 Min ",
+      "effect_value": 0
+    },
+    {
+      "nutrient": "Abyssal Stew",
+      "duration": "10:00",
+      "effect": "2 Words Translated 10 Min",
+      "effect_value": 0
+    },
+    {
+      "nutrient": "Baked Anomaly",
+      "duration": "06:36",
+      "effect": "2 Words Translated 6:36 Min ",
+      "effect_value": 0
+    }
+  ],
+  "shield strength": [
+    {
+      "nutrient": "Steamed Vegetables",
+      "duration": "05:00",
+      "effect": "23% Shield Strength 5 Min",
+      "effect_value": 23
+    },
+    {
+      "nutrient": "Pastry",
+      "duration": "05:00",
+      "effect": "23% Shield Strength 5 Min ",
+      "effect_value": 23
+    },
+    {
+      "nutrient": "Bone Butter",
+      "duration": "07:00",
+      "effect": "31% Shield Strength 7 Min ",
+      "effect_value": 31
+    },
+    {
+      "nutrient": "Bone Milk",
+      "duration": "07:00",
+      "effect": "32% Shield Strength 7 Min ",
+      "effect_value": 32
+    },
+    {
+      "nutrient": "Bone Cream",
+      "duration": "07:00",
+      "effect": "32% Shield Strength 7 Min ",
+      "effect_value": 32
+    },
+    {
+      "nutrient": "Bone Cheese",
+      "duration": "07:00",
+      "effect": "32% Shield Strength 7 Min ",
+      "effect_value": 32
+    },
+    {
+      "nutrient": "Very Thick Custard",
+      "duration": "07:00",
+      "effect": "32% Shield Strength 7 Min ",
+      "effect_value": 32
+    },
+    {
+      "nutrient": "Fungal Tart",
+      "duration": "10:00",
+      "effect": "40% Shield Strength 10 Min ",
+      "effect_value": 40
+    },
+    {
+      "nutrient": "Delicious Vegetable Stew",
+      "duration": "10:00",
+      "effect": "42% Shield Strength 10 Min",
+      "effect_value": 42
+    },
+    {
+      "nutrient": "Herb-Encrusted Flesh",
+      "duration": "10:00",
+      "effect": "42% Shield Strength 10 Min",
+      "effect_value": 42
+    },
+    {
+      "nutrient": "Jam Tart",
+      "duration": "10:00",
+      "effect": "42% Shield Strength 10 Min ",
+      "effect_value": 42
+    },
+    {
+      "nutrient": "Cake Of Eternal Sleep",
+      "duration": "10:00",
+      "effect": "42% Shield Strength 10 Min ",
+      "effect_value": 42
+    },
+    {
+      "nutrient": "Flavoursome Organs",
+      "duration": "10:00",
+      "effect": "43% Shield Strength 10 Min",
+      "effect_value": 43
+    },
+    {
+      "nutrient": "Cream Curiosity",
+      "duration": "10:00",
+      "effect": "43% Shield Strength 10 Min",
+      "effect_value": 43
+    },
+    {
+      "nutrient": "Volatile Chocolate Fancy",
+      "duration": "10:00",
+      "effect": "43% Shield Strength 10 Min ",
+      "effect_value": 43
+    }
+  ],
+  ",679% mineral analysis rewards": [
+    {
+      "nutrient": "Gelatinous Membrane",
+      "duration": "02:00",
+      "effect": "1,679% Mineral Analysis Rewards 2 Min",
+      "effect_value": 0
+    }
+  ],
+  ",612% flora analysis rewards": [
+    {
+      "nutrient": "Nightmare Sausage",
+      "duration": "02:00",
+      "effect": "1,612% Flora Analysis Rewards 2 Min",
+      "effect_value": 0
+    }
+  ],
+  "jetpack boost": [
+    {
+      "nutrient": "Clarified Oil",
+      "duration": "",
+      "effect": "207% Jetpack Boost",
+      "effect_value": 207
+    }
+  ],
+  "jetpack tanks": [
+    {
+      "nutrient": "Churned Butter",
+      "duration": "05:00",
+      "effect": "189% Jetpack Tanks 5 Min ",
+      "effect_value": 189
+    },
+    {
+      "nutrient": "Proto-Butter",
+      "duration": "06:00",
+      "effect": "227% Jetpack Tanks 6 Min ",
+      "effect_value": 227
+    },
+    {
+      "nutrient": "Proto-Oil",
+      "duration": "06:00",
+      "effect": "228% Jetpack Tanks 6 Min ",
+      "effect_value": 228
+    },
+    {
+      "nutrient": "Curdy Cracker",
+      "duration": "06:36",
+      "effect": "235% Jetpack Tanks 6:36 Min ",
+      "effect_value": 235
+    },
+    {
+      "nutrient": "Xeno-Sponge",
+      "duration": "10:00",
+      "effect": "301% Jetpack Tanks 10 Min ",
+      "effect_value": 301
+    },
+    {
+      "nutrient": "Wriggling Tart",
+      "duration": "10:00",
+      "effect": "307% Jetpack Tanks 10 Min ",
+      "effect_value": 307
+    },
+    {
+      "nutrient": "Unsolvable Jam Turnover",
+      "duration": "10:00",
+      "effect": "307% Jetpack Tanks 10 Min ",
+      "effect_value": 307
+    },
+    {
+      "nutrient": "Unlovable Jam Turnover",
+      "duration": "10:00",
+      "effect": "307% Jetpack Tanks",
+      "effect_value": 307
+    },
+    {
+      "nutrient": "Stellar Ice Cream",
+      "duration": "10:00",
+      "effect": "308% Jetpack Tanks 10 Min ",
+      "effect_value": 308
+    },
+    {
+      "nutrient": "Starbirth Delight",
+      "duration": "10:00",
+      "effect": "312% Jetpack Tanks 10 Min ",
+      "effect_value": 312
+    },
+    {
+      "nutrient": "Stellar Custard Tart",
+      "duration": "10:00",
+      "effect": "314% Jetpack Tanks 10 Min ",
+      "effect_value": 314
+    },
+    {
+      "nutrient": "Interstellar Curiosity",
+      "duration": "10:00",
+      "effect": "314% Jetpack Tanks 10 Min ",
+      "effect_value": 314
+    },
+    {
+      "nutrient": "Unbound Monstrosity",
+      "duration": "10:00",
+      "effect": "315% Jetpack Tanks 10 Min ",
+      "effect_value": 315
+    },
+    {
+      "nutrient": "Solidified Grease Pie",
+      "duration": "10:00",
+      "effect": "316% Jetpack Tanks 10 Min ",
+      "effect_value": 316
+    },
+    {
+      "nutrient": "Starpollen Surprise",
+      "duration": "",
+      "effect": "319% Jetpack Tanks",
+      "effect_value": 319
+    },
+    {
+      "nutrient": "Perpetual Ice Cream",
+      "duration": "10:00",
+      "effect": "320% Jetpack Tanks 10 Min",
+      "effect_value": 320
+    },
+    {
+      "nutrient": "Horrifying, Gooey Delight",
+      "duration": "10:00",
+      "effect": "326% Jetpack Tanks 10 Min",
+      "effect_value": 326
+    },
+    {
+      "nutrient": "Perpetual Honeycake",
+      "duration": "10:00",
+      "effect": "326% Jetpack Tanks 10 Min ",
+      "effect_value": 326
+    },
+    {
+      "nutrient": "Interstellar Fancy",
+      "duration": "10:00",
+      "effect": "328% Jetpack Tanks 10 Min ",
+      "effect_value": 328
+    },
+    {
+      "nutrient": "Perpetual Cake",
+      "duration": "10:00",
+      "effect": "329% Jetpack Tanks 10 Min ",
+      "effect_value": 329
+    }
+  ],
+  "resources mined": [
+    {
+      "nutrient": "Crystalline Soup",
+      "duration": "06:30",
+      "effect": "39% Resources Mined 6:30 Min",
+      "effect_value": 39
+    },
+    {
+      "nutrient": "Bone Broth",
+      "duration": "6:36",
+      "effect": "42% Resources Mined 6:36",
+      "effect_value": 42
+    },
+    {
+      "nutrient": "Well-Stirred Stew",
+      "duration": "06:30",
+      "effect": "47% Resources Mined 6:30 Min",
+      "effect_value": 47
+    },
+    {
+      "nutrient": "Proteinous Doughnut",
+      "duration": "10:00",
+      "effect": "51% Resources Mined 10 Min ",
+      "effect_value": 51
+    },
+    {
+      "nutrient": "Icey Marrow",
+      "duration": "10:00",
+      "effect": "52% Resources Mined 10 Min ",
+      "effect_value": 52
+    },
+    {
+      "nutrient": "The Toothbreaker",
+      "duration": "10:00",
+      "effect": "52% Resources Mined 10 Min ",
+      "effect_value": 52
+    },
+    {
+      "nutrient": "Glittering Honey Cake",
+      "duration": "10:00",
+      "effect": "52% Resources Mined 10 Min",
+      "effect_value": 52
+    },
+    {
+      "nutrient": "Spiced 'Apple' Cake",
+      "duration": "10:00",
+      "effect": "52% Resources Mined 10 Min ",
+      "effect_value": 52
+    },
+    {
+      "nutrient": "Anomalous Tart",
+      "duration": "10:00",
+      "effect": "54% Resources Mined 10 Min ",
+      "effect_value": 54
+    },
+    {
+      "nutrient": "Caramel-Encrusted Cake",
+      "duration": "10:00",
+      "effect": "55% Resources Mined 10 Min",
+      "effect_value": 55
+    },
+    {
+      "nutrient": "Gristle Pie",
+      "duration": "10:00",
+      "effect": "56% Resources Mined 10 Min ",
+      "effect_value": 56
+    },
+    {
+      "nutrient": "The Pie Of Knowledge",
+      "duration": "10:00",
+      "effect": "56% Resources Mined 10 Min ",
+      "effect_value": 56
+    },
+    {
+      "nutrient": "Earthy Pie",
+      "duration": "10:00",
+      "effect": "57% Resources Mined 10 Min ",
+      "effect_value": 57
+    },
+    {
+      "nutrient": "Cream Buns",
+      "duration": "10:00",
+      "effect": "57% Resources Mined 10 Min",
+      "effect_value": 57
+    },
+    {
+      "nutrient": "Gritty Meat Pie",
+      "duration": "10:00",
+      "effect": "58% Resources Mined 10 Min ",
+      "effect_value": 58
+    },
+    {
+      "nutrient": "Caramel Doughnut",
+      "duration": "10:00",
+      "effect": "60% Resources Mined 10 Min ",
+      "effect_value": 60
+    },
+    {
+      "nutrient": "Syrup-Drenched Delight",
+      "duration": "10:00",
+      "effect": "62% Resources Mined 10 Min ",
+      "effect_value": 62
+    },
+    {
+      "nutrient": "The Stellarator",
+      "duration": "10:00",
+      "effect": "64% Resources Mined 10 Min ",
+      "effect_value": 64
+    },
+    {
+      "nutrient": "Questionably Sweet Cake",
+      "duration": "10:00",
+      "effect": "64% Resources Mined 10 Min ",
+      "effect_value": 64
+    }
+  ],
+  "mining speed": [
+    {
+      "nutrient": "Soiled Soup",
+      "duration": "06:30",
+      "effect": "21% Mining Speed 6:30 Min",
+      "effect_value": 21
+    },
+    {
+      "nutrient": "Chewy 'Dumpling' Stew",
+      "duration": "06:30",
+      "effect": "21% Mining Speed 6:30 Min ",
+      "effect_value": 21
+    },
+    {
+      "nutrient": "Honey Doughnut",
+      "duration": "10:00",
+      "effect": "28% Mining Speed 10 Min ",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Gooey Protodoughnut",
+      "duration": "10:00",
+      "effect": "28% Mining Speed 10 Min ",
+      "effect_value": 28
+    },
+    {
+      "nutrient": "Custard Doughnut",
+      "duration": "10:00",
+      "effect": "29% Mining Speed 10 Min ",
+      "effect_value": 29
+    },
+    {
+      "nutrient": "Honeybutter Doughnut",
+      "duration": "10:00",
+      "effect": "29% Mining Speed 10 Min ",
+      "effect_value": 29
+    },
+    {
+      "nutrient": "Salty Doughnut",
+      "duration": "10:00",
+      "effect": "30% Mining Speed 10 Min ",
+      "effect_value": 30
+    }
+  ],
+  "recharge time 10%": [
+    {
+      "nutrient": "Monstrous Doughnut",
+      "duration": "",
+      "effect": "-37% Recharge Time 10%",
+      "effect_value": -37
+    }
+  ],
+  "recharge time": [
+    {
+      "nutrient": "Pollen Puffball",
+      "duration": "10:00",
+      "effect": "-39% Recharge Time 10 Min ",
+      "effect_value": -39
+    },
+    {
+      "nutrient": "Traditional Cake",
+      "duration": "10:00",
+      "effect": "-39% Recharge Time 10 Min ",
+      "effect_value": -39
+    },
+    {
+      "nutrient": "Cocoa Doughnut",
+      "duration": "10:00",
+      "effect": "-38% Recharge Time 10 Min ",
+      "effect_value": -38
+    },
+    {
+      "nutrient": "Gelatinous Sponge",
+      "duration": "10:00",
+      "effect": "-36% Recharge Time 10 Min ",
+      "effect_value": -36
+    }
+  ],
+  "flora analysis rewards": [
+    {
+      "nutrient": "Wriggling Doughnut",
+      "duration": "10:00",
+      "effect": "6548% Flora Analysis Rewards 10 Min ",
+      "effect_value": 6548
+    },
+    {
+      "nutrient": "Primardial Sponge",
+      "duration": "10:00",
+      "effect": "6553% Flora Analysis Rewards",
+      "effect_value": 6553
+    }
+  ],
+  ",443% fauna analysis rewards": [
+    {
+      "nutrient": "Anomalous Doughnut",
+      "duration": "10:00",
+      "effect": "6,443% Fauna Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  "% heat resistance": [
+    {
+      "nutrient": "Esophageal Surprise",
+      "duration": "10 min",
+      "effect": "56 % Heat Resistance 10 min",
+      "effect_value": 0
+    },
+    {
+      "nutrient": "Startling Fancy",
+      "duration": "10:00",
+      "effect": "54 % Heat Resistance 10 Min",
+      "effect_value": 0
+    },
+    {
+      "nutrient": "Ever-Boiling Cake",
+      "duration": "10 min",
+      "effect": "52 % Heat Resistance 10 min",
+      "effect_value": 0
+    },
+    {
+      "nutrient": "Gooey Mouthburner",
+      "duration": "10 min",
+      "effect": "51 % Heat Resistance 10 min",
+      "effect_value": 0
+    }
+  ],
+  "% recharge time": [
+    {
+      "nutrient": "Custard Fancy",
+      "duration": "10 min",
+      "effect": "39 % Recharge time 10 min",
+      "effect_value": 0
+    }
+  ],
+  "% solar panel power": [
+    {
+      "nutrient": "Chocolate Curiosity",
+      "duration": "10 min",
+      "effect": "93 % Solar Panel Power 10 min",
+      "effect_value": 0
+    }
+  ],
+  ",583% mineral analysis rewards": [
+    {
+      "nutrient": "Caramel Curiosity",
+      "duration": "10:00",
+      "effect": "6,583% Mineral Analysis Rewards 10 Min",
+      "effect_value": 0
+    }
+  ],
+  ",537% flora analysis rewards": [
+    {
+      "nutrient": "Apple' Curiosity",
+      "duration": "10:00",
+      "effect": "6,537% Flora Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  "% fauna analysis rewards": [
+    {
+      "nutrient": "Jam Curiosity",
+      "duration": "10:00",
+      "effect": "6154 % Fauna Analysis Rewards 10 Min",
+      "effect_value": 0
+    },
+    {
+      "nutrient": "Jam Fluffer",
+      "duration": "10 min",
+      "effect": "6141 % Fauna Analysis Rewards 10 min",
+      "effect_value": 0
+    },
+    {
+      "nutrient": "Soft Custard Fancy",
+      "duration": "10 min",
+      "effect": "6355 % Fauna Analysis Rewards 10 min",
+      "effect_value": 0
+    }
+  ],
+  ",388% fauna analysis rewards": [
+    {
+      "nutrient": "Custard Curiosity",
+      "duration": "10:00",
+      "effect": "6,388% Fauna Analysis Rewards 10 Min ",
+      "effect_value": 0
+    },
+    {
+      "nutrient": "Mother-Of-Quicksilver",
+      "duration": "",
+      "effect": "2,388% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",428% fauna analysis rewards": [
+    {
+      "nutrient": "Salty Surprise",
+      "duration": "10:00",
+      "effect": "6,428% Fauna Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  "% shield strength": [
+    {
+      "nutrient": "Chocolate Dream",
+      "duration": "",
+      "effect": "43 % Shield Strength",
+      "effect_value": 0
+    }
+  ],
+  "% recources mined": [
+    {
+      "nutrient": "Chocolate Cake",
+      "duration": "10 min",
+      "effect": "54 % Recources Mined 10 min",
+      "effect_value": 0
+    }
+  ],
+  ",214% flora analysis rewards": [
+    {
+      "nutrient": "Honied Angel Cake",
+      "duration": "10:00",
+      "effect": "6,214% Flora Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",422% fauna analysis rewards": [
+    {
+      "nutrient": "Extra-Fluffy Cream Cake",
+      "duration": "10:00",
+      "effect": "6,422% Fauna Analysis Rewards 10 Min",
+      "effect_value": 0
+    }
+  ],
+  ",205% mineral analysis rewards": [
+    {
+      "nutrient": "Angelic Fruitcake",
+      "duration": "10:00",
+      "effect": "6,205% Mineral Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  "% flora analysis rewards": [
+    {
+      "nutrient": "Soft And Spiky Surprise",
+      "duration": "10 min",
+      "effect": "6270 % Flora Analysis Rewards 10 min",
+      "effect_value": 0
+    },
+    {
+      "nutrient": "Appalling Jam Sponge",
+      "duration": "10 min",
+      "effect": "6564 % Flora Analysis Rewards 10 min",
+      "effect_value": 0
+    }
+  ],
+  "% jetpack panks": [
+    {
+      "nutrient": "Perpetual Jam Fluffer",
+      "duration": "10 min",
+      "effect": "302 % Jetpack Panks 10 min",
+      "effect_value": 0
+    }
+  ],
+  ",218% fauna analysis rewards": [
+    {
+      "nutrient": "Monstrous Honey Cake",
+      "duration": "10:00",
+      "effect": "6,218% Fauna Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",535% flora analysis rewards": [
+    {
+      "nutrient": "Haunted Chocolate Dreams",
+      "duration": "10:00",
+      "effect": "6,535% Flora Analysis Rewards 10 Min",
+      "effect_value": 0
+    }
+  ],
+  ",362% fauna analysis rewards": [
+    {
+      "nutrient": "Unbound Cream Horn",
+      "duration": "10:00",
+      "effect": "6,362% Fauna Analysis Rewards 10 Min",
+      "effect_value": 0
+    }
+  ],
+  ",181% flora analysis rewards": [
+    {
+      "nutrient": "Fluffy Throatripper",
+      "duration": "10:00",
+      "effect": "6,181% Flora Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",387% fauna analysis rewards": [
+    {
+      "nutrient": "Writhing Jam Puff",
+      "duration": "10:00",
+      "effect": "6,387% Fauna Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",129% fauna analysis rewards": [
+    {
+      "nutrient": "Gooey Screamer",
+      "duration": "10:00",
+      "effect": "6,129% Fauna Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",469% fauna analysis rewards": [
+    {
+      "nutrient": "Most Curious Cake",
+      "duration": "10:00",
+      "effect": "6,469% Fauna Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",323% mineral analysis rewards": [
+    {
+      "nutrient": "Honey-Soaked Fancy",
+      "duration": "10:00",
+      "effect": "6,323% Mineral Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",022% mineral analysis rewards": [
+    {
+      "nutrient": "Sweet Cream Dreams",
+      "duration": "10:00",
+      "effect": "6,022% Mineral Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",173% mineral analysis rewards": [
+    {
+      "nutrient": "Gooey Chocolate Cake",
+      "duration": "10:00",
+      "effect": "6,173% Mineral Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  "% mineral analysis rewards": [
+    {
+      "nutrient": "Gooey Caramel Cake",
+      "duration": "",
+      "effect": "6208 % Mineral Analysis Rewards",
+      "effect_value": 0
+    },
+    {
+      "nutrient": "Gooey Fruit Surprise",
+      "duration": "",
+      "effect": "6513 % Mineral Analysis Rewards",
+      "effect_value": 0
+    },
+    {
+      "nutrient": "Jam Oozers",
+      "duration": "10 min",
+      "effect": "6534 % Mineral Analysis Rewards 10 min",
+      "effect_value": 0
+    }
+  ],
+  ",354% mineral analysis rewards": [
+    {
+      "nutrient": "Honied Throat-Sticker",
+      "duration": "10:00",
+      "effect": "6,354% Mineral Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",070% mineral analysis rewards": [
+    {
+      "nutrient": "Gooey Custard Fancy",
+      "duration": "10:00",
+      "effect": "6,070% Mineral Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",214% mineral analysis rewards": [
+    {
+      "nutrient": "Salt-Laced Honey Cake",
+      "duration": "10:00",
+      "effect": "6,214% Mineral Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",384% fauna analysis rewards": [
+    {
+      "nutrient": "Gooey Honey Puff",
+      "duration": "10:00",
+      "effect": "6,384% Fauna Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",251% flora analysis rewards": [
+    {
+      "nutrient": "Doomed Cream Cake",
+      "duration": "10:00",
+      "effect": "6,251% Flora Analysis Rewards 10 Min",
+      "effect_value": 0
+    }
+  ],
+  ",068% flora analysis rewards": [
+    {
+      "nutrient": "Wailing Caramel Cake",
+      "duration": "10:00",
+      "effect": "6,068% Flora Analysis Rewards 10 Min",
+      "effect_value": 0
+    }
+  ],
+  ",226% flora analysis rewards": [
+    {
+      "nutrient": "Apple' Cake Of Lost Souls",
+      "duration": "10:00",
+      "effect": "6,226% Flora Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",342% flora analysis rewards": [
+    {
+      "nutrient": "Choking Monstrosity Cake",
+      "duration": "10:00",
+      "effect": "6,342% Flora Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  "% heat resistance,": [
+    {
+      "nutrient": "Cake Of Burning Dread",
+      "duration": "10 min",
+      "effect": "54 % Heat Resistance, 10 min",
+      "effect_value": 0
+    }
+  ],
+  "% jetpack tanks": [
+    {
+      "nutrient": "Cake Of Glass",
+      "duration": "10 min",
+      "effect": "325 % Jetpack Tanks 10 min",
+      "effect_value": 0
+    }
+  ],
+  ",139 % fauna analysis rewards": [
+    {
+      "nutrient": "Tortured Honey Cake",
+      "duration": "10 min",
+      "effect": "6,139 % Fauna Analysis Rewards 10 min",
+      "effect_value": 0
+    }
+  ],
+  ",305% fauna analysis rewards": [
+    {
+      "nutrient": "Itching, Creeping Honey Sponge",
+      "duration": "10:00",
+      "effect": "6,305% Fauna Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",463% mineral analysis rewards": [
+    {
+      "nutrient": "Cake Of Sin",
+      "duration": "10:00",
+      "effect": "6,463% Mineral Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",059% fauna analysis rewards": [
+    {
+      "nutrient": "Cake Of The Lost",
+      "duration": "10 min",
+      "effect": "6,059% Fauna Analysis Rewards 10 min",
+      "effect_value": 0
+    }
+  ],
+  ",532% fauna analysis rewards": [
+    {
+      "nutrient": "Nectar Islands",
+      "duration": "10:00",
+      "effect": "6,532% Fauna Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",523% fauna analysis rewards": [
+    {
+      "nutrient": "Ambrosial Curse",
+      "duration": "10:00",
+      "effect": "6,523% Fauna Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",440% fauna analysis rewards": [
+    {
+      "nutrient": "Nectar Sponge Cake",
+      "duration": "10:00",
+      "effect": "6,440% Fauna Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",293% mineral analysis rewards": [
+    {
+      "nutrient": "Ambrosial Wonder",
+      "duration": "10:00",
+      "effect": "6,293% Mineral Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",156% mineral analysis rewards": [
+    {
+      "nutrient": "Creamy Clouds Of Nectar",
+      "duration": "10:00",
+      "effect": "6,156% Mineral Analysis Rewards 10 Min",
+      "effect_value": 0
+    }
+  ],
+  ",049% mineral analysis rewards": [
+    {
+      "nutrient": "Chocolate Oozer",
+      "duration": "10:00",
+      "effect": "6,049% Mineral Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",203% mineral analysis rewards": [
+    {
+      "nutrient": "Syrupy Caramel Slice",
+      "duration": "10:00",
+      "effect": "6,203% Mineral Analysis Rewards 10 Min",
+      "effect_value": 0
+    }
+  ],
+  ",311% mineral analysis rewards": [
+    {
+      "nutrient": "Candied 'Apples'",
+      "duration": "10:00",
+      "effect": "6,311% Mineral Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",112% mineral analysis rewards": [
+    {
+      "nutrient": "Hybrid Cake",
+      "duration": "10:00",
+      "effect": "6,112% Mineral Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",245% mineral analysis rewards": [
+    {
+      "nutrient": "Jammy Burster",
+      "duration": "10:00",
+      "effect": "6,245% Mineral Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",269%  mineral analysis rewards": [
+    {
+      "nutrient": "Sponge Of Ambrosia",
+      "duration": "10:00",
+      "effect": "6,269%  Mineral Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",287% mineral analysis rewards": [
+    {
+      "nutrient": "Sweet & Salty Puff",
+      "duration": "10:00",
+      "effect": "6,287% Mineral Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",160% fauna analysis rewards": [
+    {
+      "nutrient": "Mucal Curiosity",
+      "duration": "10:00",
+      "effect": "6,160% Fauna Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",384% mineral analysis rewards": [
+    {
+      "nutrient": "Nourishing Oozer",
+      "duration": "10:00",
+      "effect": "6,384% Mineral Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",269% mineral analysis rewards": [
+    {
+      "nutrient": "Splicer's Delight",
+      "duration": "10:00",
+      "effect": "6,269% Mineral Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",553% flora analysis rewards": [
+    {
+      "nutrient": "Primordial Sponge",
+      "duration": "10:00",
+      "effect": "6,553% Flora Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",123% fauna analysis rewards": [
+    {
+      "nutrient": "Frosted Mire",
+      "duration": "10:00",
+      "effect": "6,123% Fauna Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",047% fauna analysis rewards": [
+    {
+      "nutrient": "Squirming Fancy",
+      "duration": "10:00",
+      "effect": "6,047% Fauna Analysis Rewards 10 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",474% flora analysis rewards": [
+    {
+      "nutrient": "Herbal Crunchie",
+      "duration": "06:36",
+      "effect": "4,474% Flora Analysis Rewards 6:36 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",136% flora analysis rewards": [
+    {
+      "nutrient": "Floral Wafer",
+      "duration": "06:36",
+      "effect": "4,136% Flora Analysis Rewards 6:36 Min  ",
+      "effect_value": 0
+    }
+  ],
+  ",191% flora analysis rewards": [
+    {
+      "nutrient": "Healthy Wheatblock",
+      "duration": "06:36",
+      "effect": "4,191% Flora Analysis Rewards 6:36 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",233% flora analysis rewards": [
+    {
+      "nutrient": "Spore Dunkers",
+      "duration": "06:36",
+      "effect": "4,233% Flora Analysis Rewards 6:36 Min ",
+      "effect_value": 0
+    }
+  ],
+  ",241% fauna analysis rewards": [
+    {
+      "nutrient": "Singing Sea-Snail",
+      "duration": "",
+      "effect": "2,241% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",548% fauna analysis rewards": [
+    {
+      "nutrient": "Golden Jellyfish",
+      "duration": "",
+      "effect": "2,548% Fauna Analysis Rewards",
+      "effect_value": 0
+    },
+    {
+      "nutrient": "Ghostfin",
+      "duration": "",
+      "effect": "2,548% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",683% fauna analysis rewards": [
+    {
+      "nutrient": "Dragonfish",
+      "duration": "",
+      "effect": "2,683% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",711% fauna analysis rewards": [
+    {
+      "nutrient": "The Lunker",
+      "duration": "",
+      "effect": "2,711% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",174% fauna analysis rewards": [
+    {
+      "nutrient": "Glass Angel",
+      "duration": "",
+      "effect": "2,174% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",450% fauna analysis rewards": [
+    {
+      "nutrient": "Mist Serpent",
+      "duration": "03:30",
+      "effect": "2,450% Fauna Analysis Rewards 3:30 Min",
+      "effect_value": 0
+    }
+  ],
+  ",807% fauna analysis rewards": [
+    {
+      "nutrient": "Blind Titancore",
+      "duration": "",
+      "effect": "2,807% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  "brathing efficiency": [
+    {
+      "nutrient": "Hellion Bass",
+      "duration": "",
+      "effect": "39% Brathing Efficiency",
+      "effect_value": 39
+    }
+  ],
+  ",476% fauna analysis rewards": [
+    {
+      "nutrient": "Mirrorscale Skipper",
+      "duration": "",
+      "effect": "2,476% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",822% fauna annalysis rewards": [
+    {
+      "nutrient": "Nautilia",
+      "duration": "",
+      "effect": "2,822% Fauna Annalysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",302% fauna analysis rewards": [
+    {
+      "nutrient": "Many-Eyed Jellyfish",
+      "duration": "",
+      "effect": "2,302% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",699% fauna analysis rewards": [
+    {
+      "nutrient": "Helix Sawfish",
+      "duration": "",
+      "effect": "2,699% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",198% fauna analysis rewards": [
+    {
+      "nutrient": "Emeril Sunstar",
+      "duration": "",
+      "effect": "2,198% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",590% fauna analysis rewards": [
+    {
+      "nutrient": "Vampire Squid",
+      "duration": "",
+      "effect": "2,590% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",661% fauna analysis rewards": [
+    {
+      "nutrient": "Bleached Bonefish",
+      "duration": "",
+      "effect": "2,661% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",641% fauna analysis rewards": [
+    {
+      "nutrient": "Translucent Gulper",
+      "duration": "",
+      "effect": "2,641% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",452% fauna analysis rewards": [
+    {
+      "nutrient": "Brain Eel",
+      "duration": "",
+      "effect": "2,452% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",865% fauna analysis rewards": [
+    {
+      "nutrient": "The Hunter Below",
+      "duration": "",
+      "effect": "2,865% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",152% fauna analysis rewards": [
+    {
+      "nutrient": "Mandelbrot Worm",
+      "duration": "",
+      "effect": "2,152% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",837% fauna analysis rewards": [
+    {
+      "nutrient": "Hyper-Cockle",
+      "duration": "",
+      "effect": "2,837% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",771% fauna analysis rewards": [
+    {
+      "nutrient": "The Maw Of Titan",
+      "duration": "",
+      "effect": "2,771% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",214% fauna analysis rewards": [
+    {
+      "nutrient": "Abyssal Horror Egg",
+      "duration": "",
+      "effect": "2,214% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",607% fauna analysis rewards": [
+    {
+      "nutrient": "Atlantidian Crab",
+      "duration": "",
+      "effect": "2,607% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",765% fauna analysis rewards": [
+    {
+      "nutrient": "Child Of Helios",
+      "duration": "",
+      "effect": "2,765% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  ",616% fauna analysis rewards": [
+    {
+      "nutrient": "Many-Mouthed Lunker",
+      "duration": "",
+      "effect": "2,616% Fauna Analysis Rewards",
+      "effect_value": 0
+    }
+  ],
+  "fauna analysis rewards": [
+    {
+      "nutrient": "Starshell Crab",
+      "duration": "03:00",
+      "effect": "2162% Fauna Analysis Rewards",
+      "effect_value": 2162
+    },
+    {
+      "nutrient": "Crystal Jelly",
+      "duration": "03:00",
+      "effect": "2233% Fauna Analysis Rewards",
+      "effect_value": 2233
+    },
+    {
+      "nutrient": "Fragile Icthyoscale",
+      "duration": "03:00",
+      "effect": "2269% Fauna Analysis Rewards",
+      "effect_value": 2269
+    },
+    {
+      "nutrient": "Sentient Crab",
+      "duration": "03:00",
+      "effect": "2287% Fauna Analysis Rewards",
+      "effect_value": 2287
+    },
+    {
+      "nutrient": "Aberrant Duskfin",
+      "duration": "03:30",
+      "effect": "2515% Fauna Analysis Rewards",
+      "effect_value": 2515
+    },
+    {
+      "nutrient": "Titanworm Larva",
+      "duration": "03:30",
+      "effect": "2563% Fauna Analysis Rewards",
+      "effect_value": 2563
+    },
+    {
+      "nutrient": "Jelly of the Veil",
+      "duration": "03:53",
+      "effect": "2617% Fauna Analysis Rewards",
+      "effect_value": 2617
+    },
+    {
+      "nutrient": "Leviathan Spawn",
+      "duration": "03:53",
+      "effect": "2625% Fauna Analysis Rewards",
+      "effect_value": 2625
+    },
+    {
+      "nutrient": "Gamma Squid",
+      "duration": "03:53",
+      "effect": "2680% Fauna Analysis Rewards",
+      "effect_value": 2680
+    },
+    {
+      "nutrient": "Reef Guardian",
+      "duration": "03:53",
+      "effect": "2755% Fauna Analysis Rewards",
+      "effect_value": 2755
+    },
+    {
+      "nutrient": "Ossified Deinosuchus",
+      "duration": "03:53",
+      "effect": "2780% Fauna Analysis Rewards",
+      "effect_value": 2780
+    },
+    {
+      "nutrient": "Ancient Irontail",
+      "duration": "03:53",
+      "effect": "2800% Fauna Analysis Rewards",
+      "effect_value": 2800
+    },
+    {
+      "nutrient": "Megalodon",
+      "duration": "03:53",
+      "effect": "2805% Fauna Analysis Rewards",
+      "effect_value": 2805
+    },
+    {
+      "nutrient": "Iceblood Gulper",
+      "duration": "03:53",
+      "effect": "2840% Fauna Analysis Rewards",
+      "effect_value": 2840
+    },
+    {
+      "nutrient": "Itching, Creeping Honey",
+      "duration": "10:00",
+      "effect": "6305% Fauna Analysis Rewards",
+      "effect_value": 6305
+    }
+  ],
+  "mineral analysis rewards": [
+    {
+      "nutrient": "Sweet and Salty Puff",
+      "duration": "10:00",
+      "effect": "6287% Mineral Analysis Rewards",
+      "effect_value": 6287
+    }
+  ]
+}

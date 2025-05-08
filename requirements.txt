@@ -1,0 +1,5 @@
+discord.py
+fuzzywuzzy
+python-Levenshtein
+python-dotenv
+colorama
