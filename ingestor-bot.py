@@ -154,6 +154,10 @@ async def handle_buff_command(interaction, text, sort_key, reverse=True, alpha_s
 @app_commands.describe(text="The nutrient or effect to search for")
 async def buff_command(interaction: discord.Interaction, text: str):
     logger.debug(f"Executing /buff with text: {text}")
+    if interaction.channel_id != 1376435614702112899:
+        await interaction.response.send_message("Please use the <#1376435614702112899> channel for this command.", ephemeral=True)
+        logger.info(f"User {interaction.user.name} attempted /buff in wrong channel: {interaction.channel_id}")
+        return
     await handle_buff_command(interaction, text, 'parsed_value', reverse=True)
 
 # /buffneg command (ascending order by effect_value)
@@ -161,6 +165,10 @@ async def buff_command(interaction: discord.Interaction, text: str):
 @app_commands.describe(text="The nutrient or effect to search for")
 async def buffneg_command(interaction: discord.Interaction, text: str):
     logger.debug(f"Executing /buffneg with text: {text}")
+    if interaction.channel_id != 1376435614702112899:
+        await interaction.response.send_message("Please use the <#1376435614702112899> channel for this command.", ephemeral=True)
+        logger.info(f"User {interaction.user.name} attempted /buffneg in wrong channel: {interaction.channel_id}")
+        return
     await handle_buff_command(interaction, text, 'parsed_value', reverse=False)
 
 # /buffa command (alphabetical order by key)
@@ -168,6 +176,10 @@ async def buffneg_command(interaction: discord.Interaction, text: str):
 @app_commands.describe(text="The nutrient or effect to search for")
 async def buffa_command(interaction: discord.Interaction, text: str):
     logger.debug(f"Executing /buffa with text: {text}")
+    if interaction.channel_id != 1376435614702112899:
+        await interaction.response.send_message("Please use the <#1376435614702112899> channel for this command.", ephemeral=True)
+        logger.info(f"User {interaction.user.name} attempted /buffa in wrong channel: {interaction.channel_id}")
+        return
     await handle_buff_command(interaction, text, 'key', alpha_sort=True)
 
 # /buffhelp command (help text, ephemeral)
@@ -180,7 +192,8 @@ async def buffhelp_command(interaction: discord.Interaction):
         "**/buffneg <text>** - Same as /buff, but sorts by effect value from lowest to highest (good for finding negative effects).\n"
         "**/buffa <text>** - Same as /buff, but sorts alphabetically by name and labels items as 'Nutrient' or 'Effect'.\n"
         "**/buffhelp** - Shows this help message (private to you).\n\n"
-        "All commands show up to 1900 characters of results. If there's more, you'll see 'N out of M items shown'. Data courtesy of **BomberBoi**!"
+        "All commands show up to 1900 characters of results. If there's more, you'll see 'N out of M items shown'. Data courtesy of **BomberBoi**!\n"
+        "Note: Commands other than `/buffhelp` must be used in the <#1376435614702112899> channel."
     )
     await interaction.response.send_message(help_text, ephemeral=True)
     logger.info("Command executed: /buffhelp, Entries found: 0")
