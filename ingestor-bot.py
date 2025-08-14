@@ -223,12 +223,12 @@ async def on_message(message):
     # Remove bot mention if present
     content = message.content.replace(f"<@{client.user.id}>", "").strip()
     
-    # Define known commands
+    # Define command configurations
     known_commands = {
-        "buff": buff_command,
-        "buffneg": buffneg_command,
-        "buffa": buffa_command,
-        "buffhelp": buffhelp_command
+        "buff": {"sort_key": "parsed_value", "reverse": True, "alpha_sort": False},
+        "buffneg": {"sort_key": "parsed_value", "reverse": False, "alpha_sort": False},
+        "buffa": {"sort_key": "key", "reverse": True, "alpha_sort": True},
+        "buffhelp": {"help": True}
     }
     
     # Parse the command and argument
@@ -269,15 +269,26 @@ async def on_message(message):
     mock_interaction = MockInteraction(message)
     
     # Execute the command
-    command_func = known_commands[command_name]
     if command_name == "buffhelp":
-        await command_func(mock_interaction)
+        help_text = (
+            "**NMS Buff Bot Commands**\n"
+            "Here's how to use me to find nutrient and effect data from No Man's Sky:\n\n"
+            "**/buff <text>** - Search for nutrients or effects matching `<text>`. Results are sorted by effect value (highest to lowest). Supports partial matches (e.g., 'iron' for 'Iron Root').\n"
+            "**/buffneg <text>** - Same as /buff, but sorts by effect value from lowest to highest (good for finding negative effects).\n"
+            "**/buffa <text>** - Same as /buff, but sorts alphabetically by name and labels items as 'Nutrient' or 'Effect'.\n"
+            "**/buffhelp** - Shows this help message (private to you).\n\n"
+            "All commands show up to 1900 characters of results. If there's more, you'll see 'N out of M items shown'. Data courtesy of **BomberBoi**!\n"
+            "Note: Commands other than `/buffhelp` must be used in the <#1376435614702112899> channel."
+        )
+        await mock_interaction.response.send_message(help_text, ephemeral=True)
+        logger.info("Command executed: /buffhelp, Entries found: 0")
     else:
         if not is_dm and mock_interaction.channel_id != 1376435614702112899:
             await mock_interaction.response.send_message("Please use the <#1376435614702112899> channel for this command.", ephemeral=True)
             logger.info(f"User {message.author.name} attempted {command_name} in wrong channel: {mock_interaction.channel_id}")
             return
-        await command_func(mock_interaction, argument)
+        config = known_commands[command_name]
+        await handle_buff_command(mock_interaction, argument, config["sort_key"], reverse=config["reverse"], alpha_sort=config["alpha_sort"])
 
 # Run the bot using environment variable
 client.run(os.getenv("DISCORD_TOKEN"))
