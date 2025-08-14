@@ -273,7 +273,7 @@ async def on_message(message):
     if command_name == "buffhelp":
         await command_func(mock_interaction)
     else:
-        if mock_interaction.channel_id != 1376435614702112899 and not is_dm:
+        if not is_dm and mock_interaction.channel_id != 1376435614702112899:
             await mock_interaction.response.send_message("Please use the <#1376435614702112899> channel for this command.", ephemeral=True)
             logger.info(f"User {message.author.name} attempted {command_name} in wrong channel: {mock_interaction.channel_id}")
             return
