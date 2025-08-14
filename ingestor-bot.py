@@ -205,5 +205,79 @@ async def on_ready():
     await tree.sync()
     logger.info("Commands synced")
 
+# Handle direct messages and mentions
+@client.event
+async def on_message(message):
+    if message.author == client.user:
+        return
+
+    # Check if it's a direct message
+    is_dm = isinstance(message.channel, discord.DMChannel)
+    
+    # Check if the bot is mentioned in the message
+    is_mentioned = client.user.mentioned_in(message)
+    
+    if not is_dm and not is_mentioned:
+        return
+
+    # Remove bot mention if present
+    content = message.content.replace(f"<@{client.user.id}>", "").strip()
+    
+    # Define known commands
+    known_commands = {
+        "buff": buff_command,
+        "buffneg": buffneg_command,
+        "buffa": buffa_command,
+        "buffhelp": buffhelp_command
+    }
+    
+    # Parse the command and argument
+    parts = content.split(" ", 1)
+    if not parts:
+        return
+        
+    command_name = parts[0].lower()
+    argument = parts[1] if len(parts) > 1 else ""
+    
+    if command_name not in known_commands:
+        if is_dm:
+            await message.channel.send("Unknown command. Available commands are: buff, buffneg, buffa, buffhelp.")
+        return
+    
+    # Log the command execution
+    logger.info(f"User {message.author.name} executed via {'DM' if is_dm else 'mention'}: {command_name} {argument}")
+    
+    # Create a mock interaction for command execution
+    class MockInteraction:
+        def __init__(self, message):
+            self.user = message.author
+            self.channel_id = message.channel.id
+            self.response = self.Response(message.channel)
+            
+        class Response:
+            def __init__(self, channel):
+                self.channel = channel
+                
+            async def send_message(self, content, ephemeral=False):
+                if ephemeral and isinstance(self.channel, discord.DMChannel):
+                    await self.channel.send(content)
+                elif ephemeral:
+                    await self.channel.send(content + "\n*(This message is only visible to you)*")
+                else:
+                    await self.channel.send(content)
+    
+    mock_interaction = MockInteraction(message)
+    
+    # Execute the command
+    command_func = known_commands[command_name]
+    if command_name == "buffhelp":
+        await command_func(mock_interaction)
+    else:
+        if mock_interaction.channel_id != 1376435614702112899 and not is_dm:
+            await mock_interaction.response.send_message("Please use the <#1376435614702112899> channel for this command.", ephemeral=True)
+            logger.info(f"User {message.author.name} attempted {command_name} in wrong channel: {mock_interaction.channel_id}")
+            return
+        await command_func(mock_interaction, argument)
+
 # Run the bot using environment variable
 client.run(os.getenv("DISCORD_TOKEN"))
